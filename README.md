@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff&link=https://www.linkedin.com/in/amandadecassiaborges"/>
   </a>
   
+       ![Snake animation](https://github.com/amandadecassiaborges/amandadecassiaborges/blob/output/github-contribution-grid-snake.svg)
  
   </div>
  </div>
