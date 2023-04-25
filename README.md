@@ -24,6 +24,10 @@
   </div>
   
    ##
+   
+   <div aling="center">
+   <p> Social Media: </>
+   </div>
     
   <div align="center" > 
   <a href="https://www.instagram.com/amandadecassiaborges/" alt="INSTAGRAM">
