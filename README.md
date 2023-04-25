@@ -24,8 +24,6 @@
   </div>
   
    ##
-
- <h4 align="center"> Social Media: </h4>
     
   <div align="center" > 
   <a href="https://www.instagram.com/amandadecassiaborges/" alt="INSTAGRAM">
