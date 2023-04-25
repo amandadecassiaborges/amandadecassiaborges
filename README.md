@@ -25,9 +25,8 @@
   
    ##
    
-   <div aling="center">
-   <p aling="center"> Social Media: </p>
-   </div>
+   <p align="center"> Social Media: </p>
+
     
   <div align="center" > 
   <a href="https://www.instagram.com/amandadecassiaborges/" alt="INSTAGRAM">
