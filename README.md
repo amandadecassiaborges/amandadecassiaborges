@@ -26,7 +26,7 @@
    ##
    
    <div aling="center">
-   <p> Social Media: </>
+   <p> Social Media: </p>
    </div>
     
   <div align="center" > 
