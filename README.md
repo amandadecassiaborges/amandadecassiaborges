@@ -22,6 +22,8 @@
     <p>💻 Student in <strong> Software Engineering </strong> </p>
     <p>⚡ Junior <strong> Full Stack Developer </strong></p>
   </div>
+  
+   ##
 
  <h4 align="center"> Social Media: </h4>
     
