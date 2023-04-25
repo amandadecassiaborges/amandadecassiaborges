@@ -25,7 +25,7 @@
   
    ##
    
-   <p align="center"> Social Media: </p>
+  <p align="center"><strong> Social Media: </strong></p>
 
     
   <div align="center" > 
