@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/67706498/229945130-01f091bb-b014-40d1-a802-b1b1e52ed8fb.png" min-width="450px" max-width="4500px" width="460px" align="right" alt="Computador Amanda"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d56e91&size=35&center=true&vCenter=true&width=1000&lines=Amanda+de+Cassia+Borges;Engenheira+de+Software+:%7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d56e91&size=5&center=true&vLeft=true&width=1000&lines=Amanda+de+Cassia+Borges;Engenheira+de+Software+)](https://git.io/typing-svg)
 
 </br></br>
   <div>
