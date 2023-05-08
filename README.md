@@ -1,6 +1,7 @@
 ## console.log("Hello Word, my name is Amanda Borges");
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d56e91&size=24&center=true&vCenter=true&width=1000&lines=Amanda+de+Cassia+Borges;Student+of+Software+ Engineering;and+Astronomy+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d56e91&size=35&center=true&vCenter=true&width=1000&lines=Amanda+de+Cassia+Borges;Student+of+Software+Engineering;and+Astronomy+)](https://git.io/typing-svg)
+
 <img src="https://user-images.githubusercontent.com/67706498/229945130-01f091bb-b014-40d1-a802-b1b1e52ed8fb.png" min-width="450px" max-width="4500px" width="460px" align="right" alt="Computador Amanda"/>
 
 
