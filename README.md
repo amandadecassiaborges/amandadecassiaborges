@@ -48,6 +48,8 @@
   </div>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandadecassiaborges)](https://github.com/amandadecassiaborges/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandadecassiaborges&layout=compact)](https://github.com/amandadecassiaborges/github-readme-stats)
+
 
   
  </div>
