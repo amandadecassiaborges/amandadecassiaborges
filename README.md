@@ -47,5 +47,8 @@
  
   </div>
   
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandadecassiaborges)](https://github.com/amandadecassiaborges/github-readme-stats)
+
+  
  </div>
   
