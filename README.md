@@ -7,8 +7,7 @@
 
 </br></br>
   <div>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=003AF1&size=24&center=true&vCenter=true&width=1000&lines=Amanda+de+Cassia+Borges;Student+of+Software+Engineering+)](https://git.io/typing-svg)
-  
+ 
   <div align="center">
     <img align="center" alt="Amanda-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Amanda-Css" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
