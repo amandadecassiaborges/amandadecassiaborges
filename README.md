@@ -24,6 +24,7 @@
   <div align="center" >
     <p>💻 Student in <strong> Software Engineering </strong> </p>
     <p>⚡ Junior <strong> Full Stack Developer </strong></p>
+    <p> 🇧🇷 </p>
   </div>
   
    ##
