@@ -24,7 +24,8 @@
   <div align="center" >
     <p>💻 Student in <strong> Software Engineering </strong> </p>
     <p>⚡ Junior <strong> Full Stack Developer </strong></p>
-    <p> Languages: Brazil, Korean, English, Japanese </p>
+    <p> Languages: Brazil, ![68747470733a2f2f692e696d6775722e636f6d2f306c5a4f5369792e706e67](https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/882d02cd-899e-4e9a-b75e-6e2dc2b6b026)
+Korean, English, Japanese </p>
   </div>
   
    ##
