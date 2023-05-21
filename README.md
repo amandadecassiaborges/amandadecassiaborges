@@ -24,7 +24,7 @@
   <div align="center" >
     <p>💻 Student in <strong> Software Engineering </strong> </p>
     <p>⚡ Junior <strong> Full Stack Developer </strong></p>
-    <p> Languages: Brazil, Korean, English, Japanese </p>
+    <p> Languages: Brazil, English, Japanese </p>
   </div>
   
    ##
