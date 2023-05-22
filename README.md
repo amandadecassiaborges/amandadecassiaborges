@@ -4,11 +4,9 @@
 <br>
 💻 Bacharelado em Engenharia de Software 3/8
 
-<p> About: </p>
-##
-
+<p><strong> About: </strong></p>
+   ##
 <p> Como desenvolvedora full stack, meu foco está em solucionar problemas de forma criativa e eficiente, priorizando encontrar as melhores soluções para desafios complexos. </p>
-<br>
   <h5> I have experience with the following technologies: </h5>
   
   ● HTML, CSS;
