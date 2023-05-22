@@ -5,6 +5,7 @@
 
 <h3> About: </h3>
 ##
+
 <p> Como desenvolvedora full stack, meu foco está em solucionar problemas de forma criativa e eficiente, priorizando encontrar as melhores soluções para desafios complexos. </p>
 <br>
   <h5> I have experience with the following technologies: </h5>
