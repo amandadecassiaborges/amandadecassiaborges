@@ -1,6 +1,6 @@
 ## console.log("Hello Word, my name is Amanda Borges");
 
-👨🏻‍💻 Desenvolvedora Full Stack | Data Science
+👩‍💻 Desenvolvedora Full Stack | Data Science
 <br>
 💻 Bacharelado em Engenharia de Software 3/8
 
@@ -9,19 +9,10 @@
 Como desenvolvedora full stack, meu foco está em solucionar problemas de forma criativa e eficiente, priorizando encontrar as melhores soluções para desafios complexos.
   <h5> I have experience with the following technologies: </h5>
   
-  ● HTML, CSS;
-  ● JavaScript;
-  ● React js;
-  ● Node.js;
-  ● MySQL;
-  ● Git;
-  ● Python;
-  ● NumPy, Matplotlib;
-  ● Java;
-  ● C, C++;
+   HTML, CSS | JavaScript | React js | Node.js | MySQL | Git | Python | NumPy, Matplotlib | Java | C, C++
   
-  "Como desenvolvedora full stack, tenho um talento especial para criar soluções inteligentes e resolver problemas complexos. Minha abordagem se baseia em princípios sólidos de Clean Architecture e Clean Code, resultando em um código de alta qualidade e de fácil manutenção. 
-  Minha paixão por desenvolvimento também me levou a explorar novas abordagens e técnicas inovadoras, garantindo que minhas soluções se destaquem no mercado."
+  <p>"Como desenvolvedora full stack, tenho um talento especial para criar soluções inteligentes e resolver problemas complexos. Minha abordagem se baseia em princípios sólidos de Clean Architecture e Clean Code, resultando em um código de alta qualidade e de fácil manutenção. </p>
+  <p>Minha paixão por desenvolvimento também me levou a explorar novas abordagens e técnicas inovadoras, garantindo que minhas soluções se destaquem no mercado."</>
   
    ##
   <p align="center"><strong> Contact: </strong></p>
