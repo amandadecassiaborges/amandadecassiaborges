@@ -3,7 +3,7 @@
 👨🏻‍💻 Desenvolvedora Full Stack | Data Science
 💻 Bacharelado em Engenharia de Software 3/8
 
-<h1> About: </h1>
+<h3> About: </h3>
 
 ##
 
@@ -25,7 +25,7 @@
   <p>Minha paixão por desenvolvimento também me levou a explorar novas abordagens e técnicas inovadoras, garantindo que minhas soluções se destaquem no mercado."</>
   
    ##
-  <p align="center"><strong> Contact: </strong></p>
+  <h3 align="center"><strong> Contact: </strong></h3>
     
   <div align="center" > 
   <a href="https://www.instagram.com/amandadecassiaborges/" alt="INSTAGRAM">
