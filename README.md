@@ -1,27 +1,29 @@
 ## console.log("Hello Word, my name is Amanda Borges");
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=003AF1&size=24&center=true&vCenter=true&width=1000&lines=Amanda+de+Cassia+Borges;Student+of+Software+Engineering+)](https://git.io/typing-svg)
-<img src="https://user-images.githubusercontent.com/67706498/229945130-01f091bb-b014-40d1-a802-b1b1e52ed8fb.png" min-width="450px" max-width="4500px" width="460px" align="right" alt="Computador Amanda"/>
+👨🏻‍💻 Desenvolvedora Full Stack | Data Science
+💻 Bacharelado em Engenharia de Software 3/8
 
-
-
-</br></br>
-  <div>
- 
- 
+<h1> About </h1>
+##
+<p> Como desenvolvedora full stack, meu foco está em solucionar problemas de forma criativa e eficiente, priorizando encontrar as melhores soluções para desafios complexos. />
+  <h5> I have experience with the following technologies: </h5>
   
-  <br> 
+  ● HTML, CSS;
+  ● JavaScript;
+  ● React js;
+  ● Node.js;
+  ● MySQL;
+  ● Git;
+  ● Python;
+  ● NumPy, Matplotlib;
+  ● Java;
+  ● C, C++;
   
-  <div align="center" >
-    <p>💻 Student in <strong> Software Engineering </strong> </p>
-    <p>⚡ Junior <strong> Full Stack Developer </strong></p>
-    <p> Languages: Brazil, English, Japanese </p>
-  </div>
+  <p>"Como desenvolvedora full stack, tenho um talento especial para criar soluções inteligentes e resolver problemas complexos. Minha abordagem se baseia em princípios sólidos de Clean Architecture e Clean Code, resultando em um código de alta qualidade e de fácil manutenção. </p>
+  <p>Minha paixão por desenvolvimento também me levou a explorar novas abordagens e técnicas inovadoras, garantindo que minhas soluções se destaquem no mercado."</>
   
    ##
-   
-  <p align="center"><strong> Social Media: </strong></p>
-
+  <p align="center"><strong> Contact: </strong></p>
     
   <div align="center" > 
   <a href="https://www.instagram.com/amandadecassiaborges/" alt="INSTAGRAM">
@@ -39,6 +41,3 @@
  
   </div>
 
-  
- </div>
-  
