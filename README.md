@@ -5,7 +5,6 @@
 💻 Bacharelado em Engenharia de Software 3/8
 
 <p><strong>About: </strong></p>
-
 ##
 Como desenvolvedora full stack, meu foco está em solucionar problemas de forma criativa e eficiente, priorizando encontrar as melhores soluções para desafios complexos.
   <h5> I have experience with the following technologies: </h5>
