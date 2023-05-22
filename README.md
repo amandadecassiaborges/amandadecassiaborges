@@ -4,10 +4,9 @@
 💻 Bacharelado em Engenharia de Software 3/8
 
 <h3> About: </h3>
-
 ##
-
 <p> Como desenvolvedora full stack, meu foco está em solucionar problemas de forma criativa e eficiente, priorizando encontrar as melhores soluções para desafios complexos. </p>
+<br>
   <h5> I have experience with the following technologies: </h5>
   
   ● HTML, CSS;
@@ -25,7 +24,7 @@
   <p>Minha paixão por desenvolvimento também me levou a explorar novas abordagens e técnicas inovadoras, garantindo que minhas soluções se destaquem no mercado."</>
   
    ##
-  <h3 align="center"><strong> Contact: </strong></h3>
+  <h3 align="center"> Contact: </h3>
     
   <div align="center" > 
   <a href="https://www.instagram.com/amandadecassiaborges/" alt="INSTAGRAM">
