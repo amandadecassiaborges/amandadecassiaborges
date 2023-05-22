@@ -3,7 +3,7 @@
 👨🏻‍💻 Desenvolvedora Full Stack | Data Science
 💻 Bacharelado em Engenharia de Software 3/8
 
-<h3> About: </h3>
+<p> About: </p>
 ##
 
 <p> Como desenvolvedora full stack, meu foco está em solucionar problemas de forma criativa e eficiente, priorizando encontrar as melhores soluções para desafios complexos. </p>
