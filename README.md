@@ -4,7 +4,7 @@
 <br>
 💻 Bachelor's Degree in Software Engineering 3/8
 
-<h2>About: </h2>
+<h2>About </h2>
 As a full-stack developer, my focus is on creatively and efficiently solving problems, prioritizing finding the best solutions for complex challenges.
   <h5> I have experience with the following technologies: </h5>
   
