@@ -1,8 +1,7 @@
 ## console.log("Hello Word, my name is Amanda Borges");
 
+💻 Bachelor's Degree in Software Engineering 3/8 <br>
 👩‍💻 Engenharia de Software | Desenvolvedora Full Stack | Artificial intelligence | Machine Learning | Mobile
-<br>
-💻 Bachelor's Degree in Software Engineering 3/8
 #
 <div align="center">
 As a full-stack developer, my focus is on creatively and efficiently solving problems, prioritizing finding the best solutions for complex challenges.
