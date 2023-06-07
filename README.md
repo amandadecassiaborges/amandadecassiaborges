@@ -6,12 +6,26 @@
 
 <h2>About: </h2>
 As a full-stack developer, my focus is on creatively and efficiently solving problems, prioritizing finding the best solutions for complex challenges.
-  <h5> I have experience with the following technologies: </h5>
-  
-   HTML, CSS | JavaScript | React js | Node.js | MySQL | Git | Python | NumPy, Matplotlib, Pandas | Figma | Java | C, C++
   
   <p> "As a full-stack developer, I have a special talent for creating intelligent solutions and solving complex problems. My approach is based on solid principles of Clean Architecture and Clean Code, resulting in high-quality and easily maintainable code. </p>
   <p> My passion for development has also led me to explore new approaches and innovative techniques, ensuring that my solutions stand out in the market." </p>
+  
+  #
+
+<span align="center">
+  
+<div align="center">
+  <a href="https://github.com/JessicaTeixeiraAraujo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaTeixeiraAraujo&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaTeixeiraAraujo&layout=compact&langs_count=7&theme=codeSTACKr"/>
+</div>
+<div style="display: inline_block"><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,aws,azure,c,cs,cpp,css,discord,django,dotnet,dynamodb,eclipse,figma,git,github,gitlab,gherkin,gtk,haxe,html,java,js,jenkins,jest,jquery,latex,kubernetes,matlab,maven,mysql,nodejs,postgres,powershell,postgres,py,pytorch,r,react,redux,sass,spring,selenium,tensorflow,ts,unity,v,visualstudio,vscode" />
+  </a>
+</p>          
+</div>
   
    ##
   <p align="center"><strong> Contact: </strong></p>
