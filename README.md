@@ -5,7 +5,6 @@
 💻 Bachelor's Degree in Software Engineering 3/8
 
 <div align="center">
-<h2>About: </h2>
 As a full-stack developer, my focus is on creatively and efficiently solving problems, prioritizing finding the best solutions for complex challenges.
   
   <p> "As a full-stack developer, I have a special talent for creating intelligent solutions and solving complex problems. My approach is based on solid principles of Clean Architecture and Clean Code, resulting in high-quality and easily maintainable code. </p>
@@ -29,7 +28,7 @@ As a full-stack developer, my focus is on creatively and efficiently solving pro
 </div>
   
    ##
-  <p align="center"><strong> Contact: </strong></p>
+  <p align="center"><strong> Contact </strong></p>
     
   <div align="center" > 
   <a href="https://www.instagram.com/amandadecassiaborges/" alt="INSTAGRAM">
