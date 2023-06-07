@@ -16,8 +16,8 @@ As a full-stack developer, my focus is on creatively and efficiently solving pro
   
 <div align="center">
   <a href="https://github.com/amandadecassiaborges">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandadecassiaborges&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandadecassiaborges&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
 <p align="center">
