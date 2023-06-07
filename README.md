@@ -10,7 +10,6 @@ As a full-stack developer, my focus is on creatively and efficiently solving pro
   <p> "As a full-stack developer, I have a special talent for creating intelligent solutions and solving complex problems. My approach is based on solid principles of Clean Architecture and Clean Code, resulting in high-quality and easily maintainable code. </p>
   <p> My passion for development has also led me to explore new approaches and innovative techniques, ensuring that my solutions stand out in the market." </p>
  </div>
-  #
 
 <span align="center">
   
