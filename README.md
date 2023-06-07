@@ -1,6 +1,6 @@
 ## console.log("Hello Word, my name is Amanda Borges");
 
-👩‍💻 Full Stack Developer | Data Science
+👩‍💻 Engenharia de Software | Desenvolvedora Full Stack | Artificial intelligence | Machine Learning | Mobile
 <br>
 💻 Bachelor's Degree in Software Engineering 3/8
 #
