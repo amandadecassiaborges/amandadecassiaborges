@@ -3,7 +3,7 @@
 👩‍💻 Full Stack Developer | Data Science
 <br>
 💻 Bachelor's Degree in Software Engineering 3/8
-##
+#
 <div align="center">
 As a full-stack developer, my focus is on creatively and efficiently solving problems, prioritizing finding the best solutions for complex challenges.
   
