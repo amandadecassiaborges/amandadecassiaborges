@@ -1,10 +1,8 @@
 ## console.log("Hey there! I’m Amanda Borges");
 
-💻 Bachelor's Degree in Software Engineering 3/8 <br>
-👩‍💻 Engenharia de Software | Desenvolvedora Full Stack | Artificial intelligence | Machine Learning | Mobile
-#
 <div align="center">
 Currently, I am a Bachelor's student in Software Engineering at UNIFAE University.
+  
 Software Developer, User Interface Design, Artificial Intelligence, Machine Learning and Mobile.
   
 Below I quote the technologies that I use in my projects
