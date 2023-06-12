@@ -1,16 +1,14 @@
-## console.log("Hello Word, my name is Amanda Borges");
+## console.log("Hey there! I’m Amanda Borges");
 
 💻 Bachelor's Degree in Software Engineering 3/8 <br>
 👩‍💻 Engenharia de Software | Desenvolvedora Full Stack | Artificial intelligence | Machine Learning | Mobile
 #
 <div align="center">
-As a full-stack developer, my focus is on creatively and efficiently solving problems, prioritizing finding the best solutions for complex challenges.
+Currently, I am a Bachelor's student in Software Engineering at UNIFAE University.
+Software Developer, User Interface Design, Artificial Intelligence, Machine Learning and Mobile.
   
-  <p> "As a full-stack developer, I have a special talent for creating intelligent solutions and solving complex problems. My approach is based on solid principles of Clean Architecture and Clean Code, resulting in high-quality and easily maintainable code. </p>
-  <p> My passion for development has also led me to explore new approaches and innovative techniques, ensuring that my solutions stand out in the market." </p>
+Below I quote the technologies that I use in my projects
  </div>
-
-<span align="center">
   
 <div align="center">
   <a href="https://github.com/amandadecassiaborges">
