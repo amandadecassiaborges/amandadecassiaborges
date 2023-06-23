@@ -1,11 +1,9 @@
 ## console.log("Hey there! I’m Amanda Borges");
 
 <div align="center">
-Currently, I am a Bachelor's student in Software Engineering at UNIFAE University.
+Bachelor's student in Software Engineering at UNIFAE University.
   
 Software Developer, User Interface Design, Artificial Intelligence, Machine Learning and Mobile.
-  
-Below I quote the technologies that I use in my projects
  </div>
   
 <div align="center">
