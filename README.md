@@ -6,9 +6,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-amandadecassiaborges-00875f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/amandadecassiaborges/)](https://www.Instagram.com/amandadecassiaborges/)
 
 Enthusiast of web, mobile, and artificial intelligence development technologies.
-Atualmente, esou aluna de graduação em Engenharia de Software na Unifae | Brasil
+
+Atualmente, sou aluna de graduação em Engenharia de Software na Unifae | Brasil.
 
 Tecnologias: 
+
 Desenvolvimento Front-end com HTML, CSS, JavaScript, React
 Desenvolvimento Back-end Java, Python, PHP, MySql
 Design da interface do usuário
