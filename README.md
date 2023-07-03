@@ -12,7 +12,10 @@ Atualmente, sou aluna de graduação em Engenharia de Software na Unifae | Brasi
 Tecnologias: 
 
 Desenvolvimento Front-end com HTML, CSS, JavaScript, React
+
 Desenvolvimento Back-end Java, Python, PHP, MySql
+
 Design da interface do usuário
+
 Aprendendo C/C++, Git.
 
