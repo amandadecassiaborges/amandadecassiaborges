@@ -1,6 +1,6 @@
 # Amanda Borges
 
-Enthusiast of web, mobile, and artificial intelligence development technologies.
+Enthusiast of web, data science, and artificial intelligence development technologies.
 
 Currently, I am an undergraduate student in Software Engineering at Unifae | Brazil.
 
