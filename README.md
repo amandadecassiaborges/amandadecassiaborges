@@ -1,6 +1,6 @@
 # Amanda Borges
 
-Enthusiast of web, data science, and artificial intelligence development technologies.
+Enthusiast of back-end, data science, and artificial intelligence development technologies.
 
 Currently, I am an undergraduate student in Software Engineering at Unifae | Brazil.
 
