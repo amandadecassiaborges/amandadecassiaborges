@@ -1,16 +1,14 @@
 # Amanda Borges
 
-Enthusiast of back-end, data science, and artificial intelligence development technologies.
+Enthusiast of back-end, data science development technologies.
 
 Currently, I am an undergraduate student in Software Engineering at Unifae | Brazil.
 
 Technologies:
 
-- Front-end Development with HTML, CSS, JavaScript, React
+- Front-end Development with HTML, CSS, JavaScript, React.js
 
 - Back-end Development with Java, Python, MySql
-
-- User Interface Design
 
 - C/C++, Git. 
 
