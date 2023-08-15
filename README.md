@@ -1,17 +1,16 @@
-# Amanda Borges
+## Amanda Borges
 
-Enthusiast of back-end, data science development technologies.
+Passionate about science and technology, I am presently specializing in backend technologies and data science.
+I am an undergraduate student in Software Engineering at Unifae | Brazil.
 
-Currently, I am an undergraduate student in Software Engineering at Unifae | Brazil.
-
-### Contato
+#### Contato
 
 [![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Borges-961e53?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/)
 [![Gmail Badge](https://img.shields.io/badge/-amandaborgeses@gmail.com-961e53?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amandaborgeses@gmail.com)](mailto:amandaborgeses@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@amandaborgeses-961e53?style=flat-square&labelColor=961e53&logo=twitter&logoColor=white&link=https://twitter.com/amandaborgeses)](https://twitter.com/amandaborgeses) 
 [![Instagram Badge](https://img.shields.io/badge/-amandadecassiaborges-961e53?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/amandadecassiaborges/)](https://www.Instagram.com/amandadecassiaborges/)
 
-### Tecnologias
+#### Tecnologias
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
