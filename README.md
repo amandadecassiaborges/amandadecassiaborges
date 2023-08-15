@@ -27,3 +27,5 @@ Currently, I am an undergraduate student in Software Engineering at Unifae | Bra
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) 
 ![Php](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandadecassiaborges)](https://github.com/amandadecassiaborges/github-readme-stats)
