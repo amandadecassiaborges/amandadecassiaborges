@@ -17,7 +17,7 @@ Technologies:
 [![Twitter Badge](https://img.shields.io/badge/-@amandaborgeses-47627D?style=flat-square&labelColor=47627D&logo=twitter&logoColor=white&link=https://twitter.com/amandaborgeses)](https://twitter.com/amandaborgeses) 
 [![Instagram Badge](https://img.shields.io/badge/-amandadecassiaborges-47627D?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/amandadecassiaborges/)](https://www.Instagram.com/amandadecassiaborges/)
 
-# Tecnologias
+### Tecnologias
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
