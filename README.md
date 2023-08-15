@@ -1,7 +1,7 @@
 ## Amanda Borges
 
 Passionate about science and technology, I am presently specializing in backend technologies and data science.
-
+<br>
 I am an undergraduate student in Software Engineering at Unifae | Brazil.
 
 #### Contato
