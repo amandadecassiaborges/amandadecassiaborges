@@ -1,5 +1,5 @@
 <p align="center">
-<img width="577" alt="AMANDA BORGES" src="https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/56ebb157-2bbc-4eec-8bd2-48b711feeb29">
+<img width="577" alt="AMANDA BORGES" src="https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/bea50c34-bace-4d85-aa04-4416110e0034">
 </p>
 🚀 Welcome to my Technological Odyssey: Where Science Meets Code - A Journey to the Stars 🌌
 <br><br>
