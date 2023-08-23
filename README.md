@@ -1,5 +1,5 @@
 <p align="center">
-<img width="362" alt="AMANDA BORGES" src="https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/d405875a-eb51-40b5-9d51-d8019d5c86a8">
+<img width="577" alt="AMANDA BORGES" src="https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/f5e436b2-2338-431f-a7e3-2d40e4985b9b">
 </p>
 Passionate about science and technology, I am presently specializing in backend technologies and data science.
 <br>
