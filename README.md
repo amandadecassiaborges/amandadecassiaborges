@@ -2,12 +2,12 @@
 <img width="577" alt="AMANDA BORGES" src="https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/56ebb157-2bbc-4eec-8bd2-48b711feeb29">
 </p>
 🚀 Welcome to my Technological Odyssey: Where Science Meets Code - A Journey to the Stars 🌌
-<br>
+<br><br>
 Greetings, fellow explorers of the digital realm! 🌟 As an enthusiastic voyager in the vast universe of science and technology, I find myself on an exhilarating expedition towards the frontiers of knowledge.
 <br>
 <br>
 🔭 The Stellar Mission: Backend Technologies and Data Science 🌌
-<br>
+<br><br>
 Currently, I am a dedicated cadet at Unifae | Brazil, pursuing a course in Software Engineering. My chosen trajectory has led me to a specialization in the realms of backend technologies and data science. 🛰️ With each step I take, I'm honing my skills to build the backbone of futuristic digital landscapes, ensuring systems run smoothly and efficiently, much like the finely tuned engines of a starship.
 
 #### 🔗 Contact Me for a Universal Chat 🌍
