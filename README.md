@@ -1,11 +1,15 @@
 <p align="center">
 <img width="577" alt="AMANDA BORGES" src="https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/56ebb157-2bbc-4eec-8bd2-48b711feeb29">
 </p>
-Passionate about science and technology, I am presently specializing in backend technologies and data science.
-<br>
-I am an undergraduate student in Software Engineering at Unifae | Brazil.
+🚀 Welcome to my Technological Odyssey: Where Science Meets Code - A Journey to the Stars 🌌
 
-#### Contato
+Greetings, fellow explorers of the digital realm! 🌟 As an enthusiastic voyager in the vast universe of science and technology, I find myself on an exhilarating expedition towards the frontiers of knowledge.
+<br>
+🔭 The Stellar Mission: Backend Technologies and Data Science 🌌
+
+Currently, I am a dedicated cadet at Unifae | Brazil, pursuing a course in Software Engineering. My chosen trajectory has led me to a specialization in the realms of backend technologies and data science. 🛰️ With each step I take, I'm honing my skills to build the backbone of futuristic digital landscapes, ensuring systems run smoothly and efficiently, much like the finely tuned engines of a starship.
+
+#### 🔗 Contact Me for a Universal Chat 🌍
 
 [![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Borges-961e53?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/)
 [![Gmail Badge](https://img.shields.io/badge/-amandaborgeses@gmail.com-961e53?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amandaborgeses@gmail.com)](mailto:amandaborgeses@gmail.com)
@@ -28,4 +32,6 @@ I am an undergraduate student in Software Engineering at Unifae | Brazil.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) 
 ![Php](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
+
+"Live long and prosper." 🖖🚀
 
