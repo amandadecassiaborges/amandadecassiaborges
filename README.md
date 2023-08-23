@@ -1,6 +1,6 @@
 ## Amanda Borges
 <img width="362" alt="AMANDA BORGES" src="https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/d405875a-eb51-40b5-9d51-d8019d5c86a8">
-
+<br>
 Passionate about science and technology, I am presently specializing in backend technologies and data science.
 <br>
 I am an undergraduate student in Software Engineering at Unifae | Brazil.
