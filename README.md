@@ -1,23 +1,23 @@
 <p align="center">
 <img width="577" alt="AMANDA BORGES" src="https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/bea50c34-bace-4d85-aa04-4416110e0034">
 </p>
-🚀 Welcome to my Technological Odyssey: Where Science Meets Code - A Journey to the Stars 🌌
+🚀 Welcome to my Technological Odyssey 🌌
 <br><br>
-Greetings, fellow explorers of the digital realm! 🌟 As an enthusiastic voyager in the vast universe of science and technology, I find myself on an exhilarating expedition towards the frontiers of knowledge.
+I am an enthusiast of science and technology! 🌟 I always find myself seeking improvement towards the frontiers of knowledge.
 <br>
 <br>
-🔭 The Stellar Mission: Backend Technologies and Data Science 🌌
+🔭 Backend Technologies and Data Science 🌌
 <br><br>
-Currently, I am a dedicated cadet at Unifae | Brazil, pursuing a course in Software Engineering. My chosen trajectory has led me to a specialization in the realms of backend technologies and data science. 🛰️ With each step I take, I'm honing my skills to build the backbone of futuristic digital landscapes, ensuring systems run smoothly and efficiently, much like the finely tuned engines of a starship.
+Currently, I am a student at Unifae | Brazil, pursuing a course in Software Engineering. The path I have chosen has led me to specialize in the realms of backend technologies and data science. 🛰️ With each step I take, I am honing my skills to build the foundation of futuristic digital landscapes, ensuring that systems operate smoothly and efficiently.
 
-#### 🔗 Contact Me for a Universal Chat 🌍
+#### 🔗 Get in Touch with Me 🌍
 
 [![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Borges-961e53?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/)
 [![Gmail Badge](https://img.shields.io/badge/-amandaborgeses@gmail.com-961e53?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amandaborgeses@gmail.com)](mailto:amandaborgeses@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@amandaborgeses-961e53?style=flat-square&labelColor=961e53&logo=twitter&logoColor=white&link=https://twitter.com/amandaborgeses)](https://twitter.com/amandaborgeses) 
 [![Instagram Badge](https://img.shields.io/badge/-amandadecassiaborges-961e53?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/amandadecassiaborges/)](https://www.Instagram.com/amandadecassiaborges/)
 
-#### 🌌 Navigating Technologies: My Toolbox Across the Journey 🖥️
+#### 🌌 Navigating Technologies 🖥️
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
