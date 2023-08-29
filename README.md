@@ -34,5 +34,5 @@ Currently, I am a student at Unifae | Brazil, pursuing a course in Software Engi
 ![Php](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 
-<p align="center">"Live long and prosper." 🖖🚀</p>
+<p align="center">🖖🚀</p>
 
