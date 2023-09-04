@@ -1,4 +1,4 @@
-### <p align="center">AMANDA BORGES</p>
+### <h1 align="center">AMANDA BORGES</h1>
 #
 🚀 Welcome to my Technological Odyssey 🌌
 <br><br>
