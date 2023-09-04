@@ -6,7 +6,7 @@ I am an enthusiast of science and technology! I always find myself seeking impro
 <br>
 Backend Technologies and Data Science 
 <br><br>
-Currently, I am a student at Unifae | Brazil, pursuing a course in Software Engineering. The path I have chosen has led me to specialize in the realms of backend technologies and data science. 🛰️ With each step I take, I am honing my skills to build the foundation of futuristic digital landscapes, ensuring that systems operate smoothly and efficiently.
+Currently, I am a student at Unifae | Brazil, pursuing a course in Software Engineering. The path I have chosen has led me to specialize in the realms of backend technologies and data science. With each step I take, I am honing my skills to build the foundation of futuristic digital landscapes, ensuring that systems operate smoothly and efficiently.
 
 #### 🔗 Get in Touch with Me 
 
