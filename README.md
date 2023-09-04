@@ -1,5 +1,5 @@
-<p align="center">AMANDA BORGES</p>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">AMANDA BORGES</h3>
+<p align="center">Software Developer</p>
 Welcome!!
 <br><br>
 I am an enthusiast of science and technology! I always find myself seeking improvement towards the frontiers of knowledge.
