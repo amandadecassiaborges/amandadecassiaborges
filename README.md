@@ -1,5 +1,5 @@
 <p align="center">
-<img width="577" alt="AMANDA BORGES" src="https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/e5e698a1-3bd7-4e67-aa81-78597c60dcba">
+<img width="577" alt="AMANDA BORGES" src="https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/1e3e1ca9-6083-435f-bd61-3fa626068570">
 </p>
 🚀 Welcome to my Technological Odyssey 🌌
 <br><br>
