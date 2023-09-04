@@ -1,11 +1,11 @@
 <h3 align="center">AMANDA BORGES</h3>
 <p align="center">Software Developer</p>
-# Welcome!!
+Welcome!!
 <br><br>
 I am an enthusiast of science and technology! I always find myself seeking improvement towards the frontiers of knowledge.
 <br>
 <br>
-#### Backend Technologies and Data Science 
+Backend Technologies and Data Science 
 <br><br>
 Currently, I am a student at Unifae | Brazil, pursuing a course in Software Engineering. The path I have chosen has led me to specialize in the realms of backend technologies and data science. With each step I take, I am honing my skills to build the foundation of futuristic digital landscapes, ensuring that systems operate smoothly and efficiently.
 
