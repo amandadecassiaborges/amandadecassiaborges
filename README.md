@@ -1,5 +1,4 @@
 ### <h1 align="center">AMANDA BORGES</h1>
-#
 🚀 Welcome to my Technological Odyssey 🌌
 <br><br>
 I am an enthusiast of science and technology! 🌟 I always find myself seeking improvement towards the frontiers of knowledge.
