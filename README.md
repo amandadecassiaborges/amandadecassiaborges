@@ -1,21 +1,21 @@
 ### <h1 align="center">AMANDA BORGES</h1>
-🚀 Welcome to my Technological Odyssey 🌌
+Welcome
 <br><br>
-I am an enthusiast of science and technology! 🌟 I always find myself seeking improvement towards the frontiers of knowledge.
+I am an enthusiast of science and technology! I always find myself seeking improvement towards the frontiers of knowledge.
 <br>
 <br>
-🔭 Backend Technologies and Data Science 🌌
+Backend Technologies and Data Science 
 <br><br>
 Currently, I am a student at Unifae | Brazil, pursuing a course in Software Engineering. The path I have chosen has led me to specialize in the realms of backend technologies and data science. 🛰️ With each step I take, I am honing my skills to build the foundation of futuristic digital landscapes, ensuring that systems operate smoothly and efficiently.
 
-#### 🔗 Get in Touch with Me 🌍
+#### 🔗 Get in Touch with Me 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Borges-961e53?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/)
 [![Gmail Badge](https://img.shields.io/badge/-amandaborgeses@gmail.com-961e53?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amandaborgeses@gmail.com)](mailto:amandaborgeses@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@amandaborgeses-961e53?style=flat-square&labelColor=961e53&logo=twitter&logoColor=white&link=https://twitter.com/amandaborgeses)](https://twitter.com/amandaborgeses) 
 [![Instagram Badge](https://img.shields.io/badge/-amandadecassiaborges-961e53?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/amandadecassiaborges/)](https://www.Instagram.com/amandadecassiaborges/)
 
-#### 🌌 Navigating Technologies 🖥️
+#### 🔗 Navigating Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
