@@ -2,11 +2,6 @@ Welcome!!
 <br><br> 
 I am an enthusiast of science and technology! I always find myself seeking improvement towards the frontiers of knowledge.
 <br>
-<br>
-Backend Technologies
-<br><br>
-Currently, I am a student at Unifae | Brazil, pursuing a course in Software Engineering. The path I have chosen has led me to specialize in the realms of backend technologies. With each step I take, I am honing my skills to build the foundation of futuristic digital landscapes, ensuring that systems operate smoothly and efficiently.
-
 #### 🔗 Get in Touch with Me 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Borges-961e53?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/)
