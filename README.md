@@ -1,6 +1,15 @@
-Welcome devs!!
-<br><br> 
-I am an enthusiast of science and technology! I always find myself seeking improvement towards the frontiers of knowledge.
+Software Engineering Student | Full Stack Developer in Progress
+
+Hello, fellow developers!👋
+
+I'm a passionate Software Engineering student currently pursuing my degree at UNIFAE.
+
+🚀 Here's a glimpse of what I'm up to:
+
+🌐 Working on honing my skills as a Full Stack Developer.
+🧪 Actively exploring new technologies and frameworks.
+📚 Collaborating on open-source projects and contributing to the tech ecosystem.
+🌟 Always learning, always growing.
 <br>
 <br>
 🔗 Get in Touch with Me 
