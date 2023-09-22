@@ -1,4 +1,4 @@
-# Software Engineering Student | Full Stack Developer in Progress
+##### Software Engineering Student | Full Stack Developer in Progress
 
 Hello, fellow developers!👋
 
