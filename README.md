@@ -7,8 +7,11 @@ I'm a passionate Software Engineering student currently pursuing my degree at UN
 🚀 Here's a glimpse of what I'm up to:
 
 🌐 Working on honing my skills as a Full Stack Developer.
+<br>
 🧪 Actively exploring new technologies and frameworks.
+<br>
 📚 Collaborating on open-source projects and contributing to the tech ecosystem.
+<br>
 🌟 Always learning, always growing.
 <br>
 <br>
