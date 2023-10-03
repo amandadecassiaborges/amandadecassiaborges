@@ -18,7 +18,7 @@ I'm a passionate Software Engineering student currently pursuing my degree at UN
 🔗 Get in Touch with Me 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Borges-000000?style=flat-square&labelColor=961e53&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/)
-[![Twitter Badge](https://img.shields.io/badge/-@amandaborgeses-000000?style=flat-square&labelColor=961e53&logo=twitter&borderBottom=white&logoColor=white&link=https://twitter.com/amandaborgeses)](https://twitter.com/amandaborgeses) 
+[![Twitter Badge](https://img.shields.io/badge/-@amandaborgeses-000000?style=flat-square&labelColor=961e53&logo=twitter&logoColor=white&link=https://twitter.com/amandaborgeses)](https://twitter.com/amandaborgeses) 
 [![Instagram Badge](https://img.shields.io/badge/-amandadecassiaborges-000000?style=flat-square&labelColor=961e53&logo=Instagram&logoColor=white&link=https://www.instagram.com/amandadecassiaborges/)](https://www.Instagram.com/amandadecassiaborges/)
 <br>
 <br>
