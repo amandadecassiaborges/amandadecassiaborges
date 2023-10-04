@@ -1,4 +1,4 @@
-![nomegit](https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/6d209eda-6912-4449-9836-f0cd3064306f)
+![nomegit](https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/0bcb4303-47cb-4cb8-8a69-c30bf39463e3)
 <div align="center" >
 
 Hello, fellow developers!👋
