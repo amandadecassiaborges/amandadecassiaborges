@@ -30,7 +30,7 @@ I'm a passionate Software Engineering student currently pursuing my degree at UN
   <br>
 
    <div align="center" >
-🔗 Get in Touch with Me 
+<strong>🔗 Get in Touch with Me</strong>
 <br>
 <br>
      
