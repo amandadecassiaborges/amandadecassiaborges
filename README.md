@@ -1,5 +1,5 @@
 ![nomegit](https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/0bcb4303-47cb-4cb8-8a69-c30bf39463e3)
-<div align="center" >
+
 
 Hello, fellow developers!👋
 
@@ -9,7 +9,7 @@ Software Engineering student currently pursuing my degree at UNIFAE.
 
 My passion for space leads me to explore the areas of astronomy, aerospace, and aeronautics, and to integrate my main skills with these fields.
 
-</div>
+
 
 
 🚀 Here's a glimpse of what I'm up to:
