@@ -2,7 +2,9 @@
 
 
 Hello, fellow developers!👋
+
 Software Engineering Student | Full Stack Developer in Progress
+
 I'm a passionate Software Engineering student currently pursuing my degree at UNIFAE.
 </div>
 
