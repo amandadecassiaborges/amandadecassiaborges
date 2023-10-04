@@ -2,14 +2,9 @@
 
 
 Hello, fellow developers!👋<br>
-Software Engineering | Full Stack Developer
-
-Software Engineering student currently pursuing my degree at UNIFAE.
-
+Software Engineering | Full Stack Developer<br>
+Software Engineering student currently pursuing my degree at UNIFAE.<br>
 My passion for space leads me to explore the areas of astronomy, aerospace, and aeronautics, and to integrate my main skills with these fields.
-
-
-
 
 🚀 Here's a glimpse of what I'm up to:
 
