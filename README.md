@@ -22,7 +22,7 @@ I'm a passionate Software Engineering student currently pursuing my degree at UN
 <br>
 
   
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amandadecassiaborges&theme=dracula) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandadecassiaborges&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amandadecassiaborges&theme=dracula) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandadecassiaborges&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
  
   <div align="center" >
