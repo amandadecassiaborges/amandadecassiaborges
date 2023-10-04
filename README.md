@@ -23,7 +23,13 @@ I'm a passionate Software Engineering student currently pursuing my degree at UN
 <br>
 <br>
 🔗 Navigating Technologies
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind,nodejs,nextjs,php,laravel,mysql,c,cpp,aws,arduino,py,django,java,git,github,eclipse,vscode" />
+</a>
+  <br />
 
+  </div>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
