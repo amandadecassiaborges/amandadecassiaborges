@@ -1,5 +1,5 @@
+![nomegit](https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/6d209eda-6912-4449-9836-f0cd3064306f)
 <div align="center" >
-
 
 Hello, fellow developers!👋
 
