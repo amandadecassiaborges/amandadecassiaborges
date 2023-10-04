@@ -1,8 +1,11 @@
-<strong> Software Engineering Student | Full Stack Developer in Progress </strong>
+<div align="center" >
+  <strong> Software Engineering Student | Full Stack Developer in Progress </strong>
 
 Hello, fellow developers!👋
 
 I'm a passionate Software Engineering student currently pursuing my degree at UNIFAE.
+</div>
+
 
 🚀 Here's a glimpse of what I'm up to:
 
