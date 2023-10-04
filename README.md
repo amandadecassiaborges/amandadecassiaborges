@@ -3,9 +3,10 @@
 
 Hello, fellow developers!👋
 
-Software Engineering Student | Full Stack Developer in Progress
+Software Engineering | Full Stack Developer
 
-I'm a passionate Software Engineering student currently pursuing my degree at UNIFAE.
+Software Engineering student currently pursuing my degree at UNIFAE.
+My passion for space leads me to explore the areas of astronomy, aerospace, and aeronautics, and to integrate my main skills with these fields.
 </div>
 
 
