@@ -1,8 +1,7 @@
 ![nomegit](https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/0bcb4303-47cb-4cb8-8a69-c30bf39463e3)
 
 
-Hello, fellow developers!👋
-
+Hello, fellow developers!👋<br>
 Software Engineering | Full Stack Developer
 
 Software Engineering student currently pursuing my degree at UNIFAE.
