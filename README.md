@@ -27,9 +27,10 @@ I'm a passionate Software Engineering student currently pursuing my degree at UN
   <br />
 
   </div>
+  <br>
+
    <div align="center" >
 🔗 Get in Touch with Me 
-<br>
 <br>
      
 [![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Borges-000000?style=flat-square&labelColor=961e53&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/)
