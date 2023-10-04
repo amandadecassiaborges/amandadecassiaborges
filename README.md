@@ -27,7 +27,7 @@ I'm a passionate Software Engineering student currently pursuing my degree at UN
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind,nodejs,nextjs,php,laravel,mysql,c,cpp,aws,arduino,py,django,java,git,github,eclipse,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind,sass,nodejs,nextjs,php,laravel,mysql,postgree,bun,c,cpp,aws,arduino,py,django,java,git,github,eclipse,vscode" />
 </a>
   <br />
 
