@@ -1,5 +1,7 @@
+ 
+  <div align="center" >
 ![Frame 1](https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/53f0f1a4-1ae2-48a3-b03f-e1eb080c864a)
-
+  </div>
 💻 Software Engineering | Full Stack Developer<br>
 Software Engineering student currently pursuing my degree at UNIFAE.<br>
 My passion for space leads me to explore the areas of astronomy, aerospace, and aeronautics, and to integrate my main skills with these fields.
