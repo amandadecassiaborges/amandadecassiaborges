@@ -19,7 +19,7 @@ My passion for space leads me to explore the areas of astronomy, aerospace, and 
 <br>
 
   
- | ![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amandadecassiaborges&theme=dracula) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandadecassiaborges&theme=dark) |  
+ | ![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amandadecassiaborges&theme=dracula) | [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandadecassiaborges&theme=dark) |  
  | ----------- | ----------- |
  
   <div align="center" >
