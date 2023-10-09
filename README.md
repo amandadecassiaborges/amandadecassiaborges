@@ -1,6 +1,4 @@
-![Frame 1](https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/1551c9d7-92b8-471b-b18c-38db3bb2b532)
-
-
+![Frame 1](https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/56ef740d-2b42-49be-ba7a-02dd39b54e74)
 
 💻 Software Engineering | Full Stack Developer<br>
 Software Engineering student currently pursuing my degree at UNIFAE.<br>
