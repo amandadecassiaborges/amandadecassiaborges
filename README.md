@@ -1,4 +1,4 @@
-![nomegit](https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/0bcb4303-47cb-4cb8-8a69-c30bf39463e3)
+![Frame 1](https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/77a73785-9ed7-434a-9556-e19fa87edf2c)
 
 💻 Software Engineering | Full Stack Developer<br>
 Software Engineering student currently pursuing my degree at UNIFAE.<br>
