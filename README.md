@@ -35,7 +35,7 @@ My passion for space leads me to explore the areas of astronomy, aerospace, and 
 <br>
 <br>
      
-[![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Borges-000000?style=flat-square&labelColor=961e53&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/)
-[![Twitter Badge](https://img.shields.io/badge/-@amandaborgeses-000000?style=flat-square&labelColor=961e53&logo=twitter&logoColor=white&link=https://twitter.com/amandaborgeses)](https://twitter.com/amandaborgeses) 
-[![Instagram Badge](https://img.shields.io/badge/-amandadecassiaborges-000000?style=flat-square&labelColor=961e53&logo=Instagram&logoColor=white&link=https://www.instagram.com/amandadecassiaborges/)](https://www.Instagram.com/amandadecassiaborges/)
+[![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Borges-000000?style=flat-square&labelColor=1A1B27&logo=Linkedin&logoColor=BF91F3&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/)
+[![Twitter Badge](https://img.shields.io/badge/-@amandaborgeses-000000?style=flat-square&labelColor=1A1B27&logo=twitter&logoColor=BF91F3&link=https://twitter.com/amandaborgeses)](https://twitter.com/amandaborgeses) 
+[![Instagram Badge](https://img.shields.io/badge/-amandadecassiaborges-000000?style=flat-square&labelColor=1A1B27&logo=Instagram&logoColor=BF91F3&link=https://www.instagram.com/amandadecassiaborges/)](https://www.Instagram.com/amandadecassiaborges/)
 </div>
