@@ -1,4 +1,4 @@
-![Frame 1](https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/0cd557fe-140e-4ffc-9129-310e2696eebd)
+![Frame 1](https://github.com/amandadecassiaborges/amandadecassiaborges/assets/67706498/f9a4a7fb-0183-47cf-851d-1e504d0641b0)
 
 
 💻 Software Engineering | Full Stack Developer<br>
