@@ -22,7 +22,7 @@ My passion for space leads me to explore the areas of astronomy, aerospace, and 
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind,sass,nodejs,nextjs,php,laravel,mysql,postgres,c,cpp,aws,arduino,py,django,tensorflow,java,git,github,eclipse,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,php,laravel,mysql,c,cpp,aws,arduino,py,django,tensorflow,java,git,github,eclipse,vscode" />
 </a>
   <br />
 
