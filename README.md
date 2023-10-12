@@ -1,4 +1,4 @@
-## Amanda Borges
+# Amanda Borges
 
 💻 Software Engineering | Full Stack Developer<br>
 Software Engineering student currently pursuing my degree at UNIFAE.<br>
