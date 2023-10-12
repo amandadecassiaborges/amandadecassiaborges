@@ -1,6 +1,7 @@
+  <div align="center" >
 💻 Software Engineering | Back-end Developer<br>
 My passion for space leads me to explore the areas of astronomy, aerospace, and aeronautics, and to integrate my main skills with these fields.
-
+  </div>
 ⌨️ Here's a glimpse of what I'm up to:
 
 ▪︎ Working on honing my skills as a Full Stack Developer.
