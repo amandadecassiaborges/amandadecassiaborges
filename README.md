@@ -16,11 +16,8 @@ aeronautics, and to integrate my main skills with these fields.
 <br />
 <br />
 
-|
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amandadecassiaborges&theme=tokyonight)
-|
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandadecassiaborges&theme=tokyonight)
-| | ----------- | ----------- |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amandadecassiaborges&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandadecassiaborges&theme=tokyonight) |  
+ | ----------- | ----------- |
 
 <div align="center">
   <a href="https://skillicons.dev">
