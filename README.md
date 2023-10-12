@@ -1,5 +1,6 @@
-<strong>Amanda Borges</strong>
-<br>
+<div align="center" >
+<h1>Amanda Borges</h1>
+</div>
 <br>
 💻 Software Engineering | Back-end Developer<br>
 Software Engineering student currently pursuing my degree at UNIFAE.<br>
