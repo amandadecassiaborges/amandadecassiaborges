@@ -1,5 +1,5 @@
 <div align="center">
-<p size="30">Amanda Borges</p>
+<h2 color="ffffff">Amanda Borges</h2>
 </div>
 <br>
 💻 Software Engineering | Back-end Developer<br>
