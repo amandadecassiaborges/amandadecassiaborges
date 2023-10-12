@@ -1,4 +1,5 @@
-"<h3><b><u>💻 Software Engineering | Back-end Developer</u></b></h3>"
+<sub></sub>💻 Software Engineering | Back-end Developer
+
 
 <br>
 My passion for space leads me to explore the areas of astronomy, aerospace, and aeronautics, and to integrate my main skills with these fields.
