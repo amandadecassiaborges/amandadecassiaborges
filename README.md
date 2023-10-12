@@ -1,4 +1,4 @@
-<div align="center" >
+<div align="center" color="#ffffff >
 <h1>Amanda Borges</h1>
 </div>
 <br>
