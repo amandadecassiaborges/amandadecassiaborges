@@ -1,12 +1,8 @@
-<div align="center">
-<h2 color="ffffff">Amanda Borges</h2>
-</div>
-<br>
 💻 Software Engineering | Back-end Developer<br>
 Software Engineering student currently pursuing my degree at UNIFAE.<br>
 My passion for space leads me to explore the areas of astronomy, aerospace, and aeronautics, and to integrate my main skills with these fields.
 
-🚀 Here's a glimpse of what I'm up to:
+⌨️ Here's a glimpse of what I'm up to:
 
 ▪︎ Working on honing my skills as a Full Stack Developer.
 <br>
@@ -32,7 +28,7 @@ My passion for space leads me to explore the areas of astronomy, aerospace, and 
   <br>
 
    <div align="center" >
-<strong>🔗 Get in Touch with Me</strong>
+<strong>✉️ Get in Touch with Me</strong>
 <br>
 <br>
      
