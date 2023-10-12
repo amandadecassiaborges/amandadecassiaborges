@@ -1,4 +1,4 @@
-<sub></sub>💻 Software Engineering | Back-end Developer
+💻 Software Engineering | Back-end Developer
 
 
 <br>
