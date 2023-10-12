@@ -1,41 +1,46 @@
 💻 Software Engineering | Back-end Developer
-
-
-<br>
-My passion for space leads me to explore the areas of astronomy, aerospace, and aeronautics, and to integrate my main skills with these fields.
-  <br>
+<br />
+My passion for space leads me to explore the areas of astronomy, aerospace, and
+aeronautics, and to integrate my main skills with these fields.
+<br />
 ⌨️ Here's a glimpse of what I'm up to:
-  <br>
-    <br>
+<br />
+<br />
 ▪︎ Working on honing my skills as a Full Stack Developer.
-<br>
+<br />
 ▪︎ Actively exploring new technologies and frameworks.
-<br>
+<br />
 ▪︎ Collaborating on open-source projects and contributing to the tech ecosystem.
-<br>
+<br />
 ▪︎ Always learning, always growing.
-<br>
-<br>
+<br />
+<br />
 
-  
- | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amandadecassiaborges&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandadecassiaborges&theme=tokyonight) |  
- | ----------- | ----------- |
- 
-  <div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,php,laravel,mysql,c,cpp,aws,arduino,py,django,tensorflow,java,git,github,eclipse,vscode" />
-</a>
+|
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amandadecassiaborges&theme=tokyonight)
+|
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandadecassiaborges&theme=tokyonight)
+| | ----------- | ----------- |
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=html,css,js,react,vite,php,laravel,mysql,c,cpp,aws,arduino,py,django,tensorflow,java,git,github,eclipse,vscode"
+    />
+  </a>
+  <br />
+</div>
+<br />
+
+<div align="center">
+  <strong>✉️ Get in Touch with Me</strong>
+  <br />
   <br />
 
-  </div>
-  <br>
-
-   <div align="center" >
-<strong>✉️ Get in Touch with Me</strong>
-<br>
-<br>
-     
-[![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Borges-000000?style=flat-square&labelColor=1A1B27&logo=Linkedin&logoColor=BF91F3&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/)
-[![Twitter Badge](https://img.shields.io/badge/-@amandaborgeses-000000?style=flat-square&labelColor=1A1B27&logo=twitter&logoColor=BF91F3&link=https://twitter.com/amandaborgeses)](https://twitter.com/amandaborgeses) 
-[![Instagram Badge](https://img.shields.io/badge/-amandadecassiaborges-000000?style=flat-square&labelColor=1A1B27&logo=Instagram&logoColor=BF91F3&link=https://www.instagram.com/amandadecassiaborges/)](https://www.Instagram.com/amandadecassiaborges/)
+  [![Linkedin
+  Badge](https://img.shields.io/badge/-Amanda%20Borges-000000?style=flat-square&labelColor=1A1B27&logo=Linkedin&logoColor=BF91F3&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/)
+  [![Twitter
+  Badge](https://img.shields.io/badge/-@amandaborgeses-000000?style=flat-square&labelColor=1A1B27&logo=twitter&logoColor=BF91F3&link=https://twitter.com/amandaborgeses)](https://twitter.com/amandaborgeses)
+  [![Instagram
+  Badge](https://img.shields.io/badge/-amandadecassiaborges-000000?style=flat-square&labelColor=1A1B27&logo=Instagram&logoColor=BF91F3&link=https://www.instagram.com/amandadecassiaborges/)](https://www.Instagram.com/amandadecassiaborges/)
 </div>
