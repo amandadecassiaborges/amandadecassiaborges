@@ -1,4 +1,6 @@
 <strong>Amanda Borges</strong>
+<br>
+<br>
 💻 Software Engineering | Back-end Developer<br>
 Software Engineering student currently pursuing my degree at UNIFAE.<br>
 My passion for space leads me to explore the areas of astronomy, aerospace, and aeronautics, and to integrate my main skills with these fields.
