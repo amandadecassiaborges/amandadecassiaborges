@@ -5,6 +5,7 @@ My passion for space leads me to explore the areas of astronomy, aerospace, and 
   <br>
 ⌨️ Here's a glimpse of what I'm up to:
   <br>
+    <br>
 ▪︎ Working on honing my skills as a Full Stack Developer.
 <br>
 ▪︎ Actively exploring new technologies and frameworks.
