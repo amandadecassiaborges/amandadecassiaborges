@@ -1,4 +1,4 @@
-💻 Software Engineering | Back-end Developer
+💻 Software Engineering | Full Stack Developer
 <br>
 <br>
 My passion for space leads me to explore the areas of astronomy, aerospace, and
