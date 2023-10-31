@@ -1,7 +1,5 @@
 👩🏽‍💻 Software Engineering | Full Stack Developer
 <br>
- 
-About Me
 
 - 👋 Hi, I'm Amanda Borges.
 - 💼 Full Stack Developer passionate about technology and coding.
