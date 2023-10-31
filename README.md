@@ -1,18 +1,12 @@
-💻 Software Engineering | Full Stack Developer
+👩🏽‍💻 Software Engineering | Full Stack Developer
 <br>
-<br>
-⌨️ Here's a glimpse of what I'm up to:
-<br />
-<br />
-▪︎ Working on honing my skills as a Full Stack Developer.
-<br />
-▪︎ Actively exploring new technologies and frameworks.
-<br />
-▪︎ Collaborating on open-source projects and contributing to the tech ecosystem.
-<br />
-▪︎ Always learning, always growing.
-<br />
-<br />
+## About Me
+
+- 👋 Hi, I'm [Your Name].
+- 💼 Full Stack Developer passionate about technology and coding.
+- 🌐 Actively exploring new technologies and frameworks.
+- 🤝 Collaborating on open-source projects and contributing to the tech ecosystem.
+- 📚 Always learning, always growing.
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amandadecassiaborges&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandadecassiaborges&theme=github_dark) |  
  | ----------- | ----------- |
