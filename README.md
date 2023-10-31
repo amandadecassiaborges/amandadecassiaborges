@@ -1,4 +1,4 @@
-👩🏽‍💻 Software Engineering | Full Stack Developer
+<strong>👩🏽‍💻 Software Engineering | Full Stack Developer</strong>
 <br>
 
 - 👋🏽 Hi, I'm Amanda Borges.
