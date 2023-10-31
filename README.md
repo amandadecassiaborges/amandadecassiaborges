@@ -1,12 +1,13 @@
 👩🏽‍💻 Software Engineering | Full Stack Developer
 <br>
-## About Me
+ 
+About Me
 
-- 👋 Hi, I'm [Your Name].
+- 👋 Hi, I'm Amanda Borges.
 - 💼 Full Stack Developer passionate about technology and coding.
 - 🌐 Actively exploring new technologies and frameworks.
 - 🤝 Collaborating on open-source projects and contributing to the tech ecosystem.
-- 📚 Always learning, always growing.
+- 📚 Always learning and growing.
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amandadecassiaborges&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandadecassiaborges&theme=github_dark) |  
  | ----------- | ----------- |
