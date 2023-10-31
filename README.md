@@ -23,7 +23,7 @@ About Me
 <br />
 
 <div align="center">
-  <strong>✉️ Get in Touch with Me</strong>
+  <strong>✉ Get in Touch with Me</strong>
   <br />
   <br />
 
