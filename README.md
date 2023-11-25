@@ -1,3 +1,4 @@
+<img src="https://github.com/amandadecassiaborges/amandadecassiaborges/blob/main/Head.png" width="600">
 <strong>👩🏽‍💻 Software Engineering | Full Stack Developer</strong>
 <br>
 
