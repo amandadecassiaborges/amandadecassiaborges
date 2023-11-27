@@ -1,4 +1,3 @@
-<img src="https://github.com/amandadecassiaborges/amandadecassiaborges/blob/main/head.png" width="500">
 <h3>Software Engineering | Full Stack Developer</h3>
 
 - 👋🏽 Hi, I'm Amanda Borges.
