@@ -1,5 +1,5 @@
 <div align="center">
- <h3>Software Engineering | Full Stack Developer</h3>
+ <h3>----- Software Engineering | Full Stack Developer -----</h3>
 </div>
 
 - 👋🏽 Hi, I'm Amanda Borges.
