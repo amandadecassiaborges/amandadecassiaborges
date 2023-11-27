@@ -7,7 +7,7 @@
 - 🤝🏽 Collaborating on open-source projects and contributing to the tech ecosystem.
 - 🦾 Always learning and growing.
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandadecassiaborges&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandadecassiaborges&theme=github_dark) |  
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandadecassiaborges&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amandadecassiaborges&theme=tokyonight) |  
  | ----------- | ----------- |
 
 <div align="center">
