@@ -2,8 +2,11 @@
  <h3>Software Engineering | Full Stack Developer</h3>
  <div align="center">
   ___________________
+  
  </div>
 </div>
+
+<br>
 
 - 👋🏽 Hi, I'm Amanda Borges.
 - 💻 Full Stack Developer passionate about technology and coding.
