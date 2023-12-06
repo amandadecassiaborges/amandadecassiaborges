@@ -1,14 +1,4 @@
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=html,css,js,jquery,react,vite,php,laravel,mysql,c,cpp,aws,arduino,py,django,tensorflow,java,git,github,eclipse,vscode"
-    />
-  </a>
-  <br />
-</div>
-<br />
-
-<div align="center">
   <strong>✉ Get in Touch with Me</strong>
   <br />
   <br />
@@ -20,3 +10,13 @@
   [![Instagram
   Badge](https://img.shields.io/badge/-amandadecassiaborges-000000?style=flat-square&labelColor=1A1B27&logo=Instagram&logoColor=ffffff&link=https://www.instagram.com/amandadecassiaborges/)](https://www.Instagram.com/amandadecassiaborges/)
 </div>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=html,css,js,jquery,react,vite,php,laravel,mysql,c,cpp,aws,arduino,py,django,tensorflow,java,git,github,eclipse,vscode"
+    />
+  </a>
+  <br />
+</div>
+<br />
