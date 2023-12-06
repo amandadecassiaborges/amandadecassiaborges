@@ -1,7 +1,3 @@
-- 🌐 Actively exploring new technologies and frameworks.
-- 🤝🏽 Collaborating on open-source projects and contributing to the tech ecosystem.
-- 🦾 Always learning and growing.
-
 <div align="center">
   <a href="https://skillicons.dev">
     <img
