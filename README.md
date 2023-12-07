@@ -2,7 +2,9 @@ Software Engineering | Full Stack Developer
 always looking for more knowledge
 
 ---
-### Skils
+### Skills
+
+<p>
 - JavaScript
 - JQuery
 - ReactJs Vite
@@ -13,6 +15,8 @@ always looking for more knowledge
 - Tensorflow
 - Java
 - HTML5 CSS3
+</p>
+
 
   [![Linkedin
   Badge](https://img.shields.io/badge/-Amanda%20Borges-000000?style=flat-square&labelColor=1A1B27&logo=Linkedin&logoColor=ffffff&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/)
