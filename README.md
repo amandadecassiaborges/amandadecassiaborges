@@ -3,7 +3,6 @@ always looking for more knowledge
 
 ---
 ### Skils
-
 - JavaScript
 - JQuery
 - ReactJs Vite
