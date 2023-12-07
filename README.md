@@ -1,7 +1,19 @@
-<div align="center">
-  <strong>✉ Get in Touch with Me</strong>
-  <br />
-  <br />
+Software Engineering | Full Stack Developer
+always looking for more knowledge
+
+---
+### Skils
+
+- JavaScript
+- JQuery
+- ReactJs Vite
+- C C++
+- AWS
+- Python
+- Django
+- Tensorflow
+- Java
+- HTML5 CSS3
 
   [![Linkedin
   Badge](https://img.shields.io/badge/-Amanda%20Borges-000000?style=flat-square&labelColor=1A1B27&logo=Linkedin&logoColor=ffffff&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/)
@@ -11,12 +23,5 @@
   Badge](https://img.shields.io/badge/-amandadecassiaborges-000000?style=flat-square&labelColor=1A1B27&logo=Instagram&logoColor=ffffff&link=https://www.instagram.com/amandadecassiaborges/)](https://www.Instagram.com/amandadecassiaborges/)
 </div>
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=html,css,js,jquery,react,vite,php,laravel,mysql,c,cpp,aws,arduino,py,django,tensorflow,java,git,github,eclipse,vscode"
-    />
-  </a>
-  <br />
-</div>
-<br />
+
+
