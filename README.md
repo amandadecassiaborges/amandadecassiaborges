@@ -16,6 +16,7 @@ HTML5 CSS3
 - Django
 - Tensorflow
 - Java
+- MySql
 </p>
 
 
