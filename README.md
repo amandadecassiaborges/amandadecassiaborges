@@ -5,6 +5,7 @@ always looking for more knowledge
 ### Skills
 
 <p>
+HTML5 CSS3
 - JavaScript
 - JQuery
 - ReactJs Vite
@@ -14,7 +15,6 @@ always looking for more knowledge
 - Django
 - Tensorflow
 - Java
-- HTML5 CSS3
 </p>
 
 
