@@ -1,6 +1,6 @@
 Software Engineering | Full Stack Developer
 
-always looking for more knowledge
+Always looking for more knowledge
 
 ---
 ### Skills
