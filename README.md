@@ -20,6 +20,7 @@ Software Engineering | Full Stack Developer
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <br>
+
   [![Linkedin
   Badge](https://img.shields.io/badge/-Amanda%20Borges-000000?style=flat-square&labelColor=1A1B27&logo=Linkedin&logoColor=ffffff&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/)
   [![Twitter
