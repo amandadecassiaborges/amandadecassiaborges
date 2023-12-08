@@ -21,7 +21,7 @@ Software Engineering | Full Stack Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Borges-961b3c?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/) 
 [![Twitter Badge](https://img.shields.io/badge/-@amanda_borgeses-961b3c?style=flat-square&labelColor=961b3c&logo=twitter&logoColor=white&link=https://twitter.com/amanda_esborges)](https://twitter.com/amanda_esborges) 
-[![Instagram Badge](https://img.shields.io/badge/-amandadecassiaborges-961b3c?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/amandadecassiaborges/)](https://www.Instagram.com/amandadecassiaborges/)
+[![Gmail Badge](https://img.shields.io/badge/-contatoamandaborgessoftware@gmail.com-961b3c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatoamandaborgessoftware@gmail.com)](mailto:contatoamandaborgessoftware@gmail.com)
 
 
 
