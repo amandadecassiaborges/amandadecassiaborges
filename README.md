@@ -3,7 +3,7 @@ Software Engineering | Full Stack Developer
 > Always looking for more knowledge
 
 I'm in the 5th semester of my degree in software engineering
-+ Strong foundation in Python, Java, C, and JavaScript.
++ Strong foundation in PHP (Laravel), Python, Java, C, and JavaScript.
 + Specializing in full-stack development, Scrum methodology, and machine learning/artificial intelligence.
 + Proficient in Docker, Kubernetes, SQL | MySql, and server virtualization (VMWare).
 + ERP systems such as SAP and Totvs
