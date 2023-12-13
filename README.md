@@ -1,6 +1,6 @@
 <div>
-  <h1>아만다</h1> <br />
-#Amanda Borges
+  아만다 <br />
+Amanda Borges
 </div>
 <br />
 
