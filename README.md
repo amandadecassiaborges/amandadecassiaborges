@@ -1,5 +1,5 @@
 <div>
-  아만다
+  아만다 <br />
 Amanda Borges
 </div>
 
