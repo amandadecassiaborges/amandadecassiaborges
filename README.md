@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>아만다</h1>
-  <h2>Amanda Borges</h2>
+  <h1 style="margin-bottom: 0;">아만다</h1>
+  <h2 style="margin-top: 0;">Amanda Borges</h2>
 </div>
 <br />
 
