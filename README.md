@@ -1,6 +1,6 @@
 <div>
-  아만다 <br />
-Amanda Borges
+  #아만다 <br />
+#Amanda Borges
 </div>
 <br />
 
