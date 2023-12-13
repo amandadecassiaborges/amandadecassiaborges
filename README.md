@@ -1,6 +1,7 @@
 <div align="center">
   <p>아만다</p>
   <p>Amanda Borges | Back end Developer</p>
+  <p>소프트웨어 엔지니어</p>
 </div>
 <br />
 
