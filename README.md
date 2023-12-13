@@ -1,6 +1,6 @@
-<div>
-  아만다 <br />
-Amanda Borges
+<div align="center">
+  <h1>아만다</h1>
+  <h2>Amanda Borges</h2>
 </div>
 <br />
 
