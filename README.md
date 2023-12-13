@@ -3,6 +3,7 @@
 Amanda Borges
 </div>
 <br />
+
 > Always looking for more knowledge
 
 I'm in the 5th semester of my degree in software engineering
