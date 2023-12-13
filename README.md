@@ -1,4 +1,4 @@
-Software Engineering | Full Stack Developer
+<img src="https://github.com/amandadecassiaborges/amandadecassiaborges/blob/main/head.png" width="600">
 
 > Always looking for more knowledge
 
