@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="margin-bottom: 0;">아만다</h1>
+  <p style="font-size: 2em;">아만다</p>
   <p style="font-size: 1.5em;">Amanda Borges</p>
 </div>
 <br />
