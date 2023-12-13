@@ -1,4 +1,8 @@
-<img src="https://github.com/amandadecassiaborges/amandadecassiaborges/blob/main/amanda.png" width="600">
+<div align="center">
+  아만다 | Amanda
+  Back end Developer | Software Engineering
+  소프트웨어 엔지니어
+</div>
 <br />
 
 > Always looking for more knowledge
