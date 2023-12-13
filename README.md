@@ -1,6 +1,6 @@
 <div align="center">
   <p style="font-size: 2em;">아만다</p>
-  <p style="font-size: 1.5em;">Amanda Borges</p>
+  <p style="font-size: 1.5em;">Amanda Borges | Back end Developer</p>
 </div>
 <br />
 
