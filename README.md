@@ -1,4 +1,7 @@
-<img src="https://github.com/amandadecassiaborges/amandadecassiaborges/blob/main/Headline.png" width="600">
+<div>
+  아만다
+Amanda Borges
+</div>
 
 > Always looking for more knowledge
 
