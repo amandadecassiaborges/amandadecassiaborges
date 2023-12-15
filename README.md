@@ -1,8 +1,4 @@
-<div align="center">
-  아만다<br />
-  소프트웨어 엔지니어
-</div>
-<br />
+💻 Back-end Developer
 
 > Always looking for more knowledge
 
