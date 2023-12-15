@@ -1,6 +1,5 @@
 <div align="center">
-  아만다 | Amanda <br />
-  Back end Developer | Software Engineering <br />
+  아만다<br />
   소프트웨어 엔지니어
 </div>
 <br />
