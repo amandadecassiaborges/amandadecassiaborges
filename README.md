@@ -1,3 +1,4 @@
+<img src="https://github.com/amandadecassiaborges/amandadecassiaborges/blob/main/head.png" width="600">
 💻 Back-end Developer
 
 > Always looking for more knowledge
