@@ -1,4 +1,4 @@
-<img src="https://github.com/amandadecassiaborges/amandadecassiaborges/blob/main/head1.png" width="600">
+<img src="https://github.com/amandadecassiaborges/amandadecassiaborges/blob/main/head1.png" width="400">
 
 > Always looking for more knowledge
 
