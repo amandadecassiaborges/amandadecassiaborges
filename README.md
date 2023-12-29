@@ -5,7 +5,7 @@ I'm in the 5th semester of my degree in software engineering
 + Specializing in back-end development, Scrum methodology, and machine learning/artificial intelligence.
 + Proficient in Docker, Kubernetes, SQL | MySql, and server virtualization (VMWare).
 
-[ Python, Java, PHP, JavaScript, C, C#, C++, NodeJs, NextJs, MySql, Postgres, Firebird, Progress, Laravel, Spring, Django,   
+🚀 [ Python, Java, PHP, JavaScript, C, C#, C++, NodeJs, NextJs, MySql, Postgres, Firebird, Progress, Laravel, Spring, Django,   
 HTML5, CSS3, JQuery, TypeScript, ReactJs, Docker, Kubernetes, AWS ]
 
 </div>
