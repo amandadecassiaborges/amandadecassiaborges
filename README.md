@@ -3,9 +3,8 @@
 > Always looking for more knowledge
 
 👩‍💻 I'm in the 5th semester of my degree in software engineering
-+ Strong foundation in Python, Java, C, and JavaScript.
 + Specializing in full stack development, Scrum methodology, and machine learning/artificial intelligence.
-+ Proficient in Docker, Kubernetes, SQL | MySql, and server virtualization (VMWare).
++ Server virtualization (VMWare).
 
 🚀 [ Python, Java, PHP, JavaScript, C, C#, C++, NodeJs, NextJs, MySql, Postgres, Firebird, Progress, Laravel, Spring, Django,   
 HTML5, CSS3, JQuery, TypeScript, ReactJs, Docker, Kubernetes, AWS ]
