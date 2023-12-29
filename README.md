@@ -6,7 +6,7 @@ I'm in the 5th semester of my degree in software engineering
 + Proficient in Docker, Kubernetes, SQL | MySql, and server virtualization (VMWare).
 
 
-<div align='center'>
+<div>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,7 +40,6 @@ I'm in the 5th semester of my degree in software engineering
 
 </div>
 
-#### Contact
 [![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Borges-1e1e1e?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/) 
 [![Twitter Badge](https://img.shields.io/badge/-@amanda_borgeses-1e1e1e?style=flat-square&labelColor=1e1e1e&logo=twitter&logoColor=white&link=https://twitter.com/amanda_esborges)](https://twitter.com/amanda_esborges) 
 
