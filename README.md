@@ -1,6 +1,6 @@
 > Always looking for more knowledge
 
-I'm in the 5th semester of my degree in software engineering
+👩‍💻 I'm in the 5th semester of my degree in software engineering
 + Strong foundation in Python, Java, C, and JavaScript.
 + Specializing in back-end development, Scrum methodology, and machine learning/artificial intelligence.
 + Proficient in Docker, Kubernetes, SQL | MySql, and server virtualization (VMWare).
