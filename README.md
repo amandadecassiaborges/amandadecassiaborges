@@ -8,9 +8,7 @@
 🚀 [ Python, Java, PHP, JavaScript, C, C#, C++, NodeJs, NextJs, MySql, Postgres, Firebird, Progress, Laravel, Spring, Django,   
 HTML5, CSS3, JQuery, TypeScript, ReactJs, Docker, Kubernetes, AWS ]
 
-:octocat: 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Borges-89124a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/) 
+:octocat: [![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Borges-89124a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/) 
 [![Twitter Badge](https://img.shields.io/badge/-@amanda_borgeses-89124a?style=flat-square&labelColor=89124a&logo=twitter&logoColor=white&link=https://twitter.com/amanda_esborges)](https://twitter.com/amanda_esborges) 
 
 
