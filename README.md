@@ -37,7 +37,7 @@ I'm in the 5th semester of my degree in software engineering
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Borges-a41056?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/) 
-[![Twitter Badge](https://img.shields.io/badge/-@amanda_borgeses-1e1e1e?style=flat-square&labelColor=1e1e1e&logo=twitter&logoColor=white&link=https://twitter.com/amanda_esborges)](https://twitter.com/amanda_esborges) 
+[![Twitter Badge](https://img.shields.io/badge/-@amanda_borgeses-a41056?style=flat-square&labelColor=a41056&logo=twitter&logoColor=white&link=https://twitter.com/amanda_esborges)](https://twitter.com/amanda_esborges) 
 
 
 
