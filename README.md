@@ -1,4 +1,4 @@
-<strong> :octocat: Amanda Borges | Full Stack Developer </strong>
+<strong> :octocat:   Amanda Borges | Full Stack Developer </strong>
 
 > Always looking for more knowledge
 
