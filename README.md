@@ -1,4 +1,4 @@
-> Always looking for more knowledge
+:octocat:  > Always looking for more knowledge
 
 👩‍💻 I'm in the 5th semester of my degree in software engineering
 + Strong foundation in Python, Java, C, and JavaScript.
