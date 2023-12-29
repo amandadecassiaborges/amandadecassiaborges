@@ -7,7 +7,7 @@ I'm in the 5th semester of my degree in software engineering
 + Specializing in back-end development, Scrum methodology, and machine learning/artificial intelligence.
 + Proficient in Docker, Kubernetes, SQL | MySql, and server virtualization (VMWare).
 
-<div style="display: flex; align-items: center; margin: 80px;">
+<div style="display: flex; align-items: center;">
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
