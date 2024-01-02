@@ -1,16 +1,24 @@
-<strong> :octocat:   Amanda Borges | Full Stack Developer </strong>
+# :octocat: Hello World! I'm Amanda Borges 👩‍💻
 
-> Always looking for more knowledge
+I'm a passionate Full Stack Developer in my 5th semester of Software Engineering, constantly hungry for knowledge and new challenges. Specialized in full stack development, Scrum methodology, and diving into the realms of machine learning and artificial intelligence. I also have hands-on experience with server virtualization using VMWare.
 
-👩‍💻 I'm in the 5th semester of my degree in software engineering
-+ Specializing in full stack development, Scrum methodology, and machine learning/artificial intelligence.
-+ Server virtualization (VMWare).
+## 🔧 Technologies & Tools
 
-🚀 [ Python, Java, PHP, JavaScript, C, C#, C++, NodeJs, NextJs, MySql, Postgres, Firebird, Progress, Laravel, Spring, Django,   
-HTML5, CSS3, JQuery, TypeScript, ReactJs, Docker, Kubernetes, AWS ]
+- **Languages:** Python, Java, PHP, JavaScript, C, C#, C++
+- **Frameworks:** NodeJs, NextJs, Laravel, Spring, Django
+- **Databases:** MySql, Postgres, Firebird, Progress
+- **Web Technologies:** HTML5, CSS3, JQuery, TypeScript, ReactJs
+- **DevOps & Cloud:** Docker, Kubernetes, AWS
 
-[![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Borges-89124a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/) 
-[![Twitter Badge](https://img.shields.io/badge/-@amanda_borgeses-89124a?style=flat-square&labelColor=89124a&logo=twitter&logoColor=white&link=https://twitter.com/amanda_esborges)](https://twitter.com/amanda_esborges) 
+## 🚀 Experience
 
+I've had the privilege of working with a diverse tech stack, allowing me to tackle challenges from different angles. Whether it's crafting robust backends, building intuitive user interfaces, or leveraging the power of machine learning, I strive for excellence in every project.
 
+## 🌐 Connect with Me
 
+- [LinkedIn](your_linkedin_profile)
+- [Twitter](your_twitter_profile)
+
+Feel free to reach out if you're interested in collaboration, have exciting projects, or just want to geek out about the latest tech trends!
+
+> Let's code something amazing together! 🚀
