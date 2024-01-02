@@ -14,6 +14,22 @@ I'm a Full Stack Developer in my 5th semester of Software Engineering, constantl
 
 I've had the privilege of working with a diverse tech stack, allowing me to tackle challenges from different angles. Whether it's crafting robust backends, building intuitive user interfaces, or leveraging the power of machine learning, I strive for excellence in every project.
 
+### Industrial Experience
+
+- **Instrumentação Industrial** (Feb 2022 - Feb 2023)
+  - Worked for 1 year and 1 month
+  - Acquired skills in sensors, pressure and level meters, pneumatic valves, SMAR positioners, industrial automation, PLC (Programmable Logic Controller), maintenance, repair, and calibration.
+
+### Certifications
+
+- **Certificação em NR10**
+  - Acquired expertise in safety norms and regulations.
+
+### Senai São Paulo
+
+- **Auxiliar de Linha de Produção** (Jan 2024 - Dec 2024)
+  - Engaged in activities covering oral and written communication, logical and quantitative reasoning, graphical representations, information technology, logistics fundamentals, and logistical processes.
+
 ## 🌐 Connect with Me
 
 - [LinkedIn](your_linkedin_profile)
