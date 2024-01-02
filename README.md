@@ -1,6 +1,11 @@
-# :octocat: Hello World! I'm Amanda Borges 👩‍💻
+# Hello World! I'm Amanda Borges 👩‍💻
 
 I'm a Full Stack Developer in my 5th semester of Software Engineering, constantly hungry for knowledge and new challenges. Specialized in full stack development, Scrum methodology, and diving into the realms of machine learning and artificial intelligence. I also have hands-on experience with server virtualization using VMWare.
+
+<div align='center'>
+  :octocat:
+</div>
+
 
 ## 🔧 Technologies & Tools
 
