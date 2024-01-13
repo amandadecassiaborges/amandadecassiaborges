@@ -1,6 +1,6 @@
 ### Hey, I'm Amanda! 👋
 
-Specialized in full stack development, Scrum methodology, and diving into the realms of machine learning and artificial intelligence.
+Specialized in full stack development, Scrum methodology, and into the realms of machine learning and artificial intelligence.
 
 - Artificial Intelligence | Machine Learning with Python, TensorFlow, and Scikit-learn. 
 - Data Analysis with Pandas and Numpy. 
