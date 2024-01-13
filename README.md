@@ -7,7 +7,7 @@ Specialized in full stack development, Scrum methodology, and diving into the re
 - Software Development with Java, Python, JavaScript, C, C++, and C#. 
 - Database and Infrastructures with SQL, MySQL, PostgreSQL, SQL Server, and Docker. 
 
-## Connect with Me
+<strong>Connect with Me</strong>
 
 - [LinkedIn](your_linkedin_profile)
 - [Twitter](your_twitter_profile)
