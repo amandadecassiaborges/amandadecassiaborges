@@ -4,7 +4,7 @@ Specialized in full stack development, Scrum methodology, and into the realms of
 
 - Artificial Intelligence | Machine Learning with Python, TensorFlow, and Scikit-learn. 
 - Data Analysis with Pandas and Numpy. 
-- Software Development with Java, Python, JavaScript, C, C++, and C#. 
+- Software Development with Java, Python, JavaScript, C, C++. 
 - Database and Infrastructures with SQL, MySQL, PostgreSQL, SQL Server, and Docker. 
 
 <strong>Connect with Me</strong>
