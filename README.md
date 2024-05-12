@@ -10,6 +10,5 @@ Full Stack Developer
 <strong>Connect with Me</strong>
 
 - [LinkedIn](your_linkedin_profile)
-- [Twitter](your_twitter_profile)
 
 > Coding is not just about typing, it's about thinking.
