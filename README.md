@@ -1,7 +1,5 @@
 ### Hey, I'm Amanda! 👋
 
-Full Stack Developer 
-
 ```javascript
 const amanda = {
     code: ["Python", "PHP", "Java", "Ruby", "JavaScript"],
