@@ -2,10 +2,33 @@
 
 Full Stack Developer 
 
-- Artificial Intelligence | Machine Learning with Python, TensorFlow, and Scikit-learn. 
-- Data Analysis with Pandas and Numpy. 
-- Software Development with Java, Python, JavaScript, JQuery, PHP [Laravel Blade],  C, C++. 
-- Database and Infrastructures with SQL, MySQL, PostgreSQL, SQL Server, and Docker. 
+```javascript
+const anmol = {
+    code: ["Python", "PHP", "Java", "Ruby", "JavaScript"],
+    askMeAbout: ["dev full stack"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "JQuery", "React", "Angular", "Vue"],
+            python: ["Flask", "Django", "TensorFlow", "Scikit-learn"],
+            php: ["Laravel"]
+            ruby: [Ruby on Rails]
+        },
+        mobileApp: {
+            native: ["Android and IOs Development"]
+        },
+        extras: {
+            [Bootstrap, C, C++]
+        },
+        devOps: ["AWS", "Docker", "Nginx"],
+        databases: ["MySQL", "sqlite", "PostgreSQL", "SQL Server"],
+        misc: ["Firebase", "open-cv", "php"]
+    },
+    dataAnalysis: {
+        tools: ["Pandas", "NumPy"]
+    },
+    architecture: ["Single page applications", "Serverless Architecture"],
+};
+``` 
 
 <strong>Connect with Me</strong>
 
