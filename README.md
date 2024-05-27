@@ -3,7 +3,7 @@
 Full Stack Developer 
 
 ```javascript
-const anmol = {
+const amanda = {
     code: ["Python", "PHP", "Java", "Ruby", "JavaScript"],
     askMeAbout: ["dev full stack"],
     technologies: {
@@ -11,13 +11,13 @@ const anmol = {
             js: ["Node", "JQuery", "React", "Angular", "Vue"],
             python: ["Flask", "Django", "TensorFlow", "Scikit-learn"],
             php: ["Laravel"]
-            ruby: [Ruby on Rails]
+            ruby: ["Ruby on Rails"]
         },
         mobileApp: {
             native: ["Android and IOs Development"]
         },
         extras: {
-            [Bootstrap, C, C++]
+            ["Bootstrap, C, C++"]
         },
         devOps: ["AWS", "Docker", "Nginx"],
         databases: ["MySQL", "sqlite", "PostgreSQL", "SQL Server"],
