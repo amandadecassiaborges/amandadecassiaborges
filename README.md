@@ -8,7 +8,7 @@ const amanda = {
         backEnd: {
             js: ["Node", "JQuery", "React", "Angular", "Vue"],
             python: ["Flask", "Django", "TensorFlow", "Scikit-learn"],
-            php: ["Laravel"]
+            php: ["Laravel"],
             ruby: ["Ruby on Rails"]
         },
         mobileApp: {
