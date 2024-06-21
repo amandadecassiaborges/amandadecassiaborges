@@ -17,7 +17,7 @@ const amanda = {
         extras: ["Bootstrap", "C", "C++"],
         devOps: ["AWS", "Docker", "Nginx"],
         databases: ["MySQL", "SQLite", "PostgreSQL", "SQL Server"],
-        misc: ["Firebase", "OpenCV", "PHP"]
+        misc: ["Firebase", "OpenCV"]
     },
     dataAnalysis: {
         tools: ["Pandas", "NumPy"]
