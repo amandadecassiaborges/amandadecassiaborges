@@ -12,19 +12,17 @@ const amanda = {
             ruby: ["Ruby on Rails"]
         },
         mobileApp: {
-            native: ["Android and IOs Development"]
+            native: ["Android", "iOS"]
         },
-        extras: {
-            ["Bootstrap, C, C++"]
-        },
+        extras: ["Bootstrap", "C", "C++"],
         devOps: ["AWS", "Docker", "Nginx"],
-        databases: ["MySQL", "sqlite", "PostgreSQL", "SQL Server"],
-        misc: ["Firebase", "open-cv", "php"]
+        databases: ["MySQL", "SQLite", "PostgreSQL", "SQL Server"],
+        misc: ["Firebase", "OpenCV", "PHP"]
     },
     dataAnalysis: {
         tools: ["Pandas", "NumPy"]
     },
-    architecture: ["Single page applications", "Serverless Architecture"],
+    architecture: ["Single page applications", "Serverless Architecture"]
 };
 ``` 
 
