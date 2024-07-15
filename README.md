@@ -2,14 +2,13 @@
 
 ```javascript
 const amanda = {
-    code: ["Python", "PHP", "Java", "Ruby", "JavaScript"],
+    code: ["Python", "PHP", "Java", "JavaScript"],
     askMeAbout: ["dev full stack"],
     technologies: {
         backEnd: {
-            js: ["Node", "JQuery", "React", "Angular", "Vue"],
+            js: ["JQuery", "React", "Vue"],
             python: ["Flask", "Django", "TensorFlow", "Scikit-learn"],
             php: ["Laravel"],
-            ruby: ["Ruby on Rails"]
         },
         mobileApp: {
             native: ["Android", "iOS"]
