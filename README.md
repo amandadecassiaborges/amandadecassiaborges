@@ -27,6 +27,6 @@ const amanda = {
 
 <strong>Connect with Me</strong>
 
-- [LinkedIn](your_linkedin_profile)
+- [LinkedIn](https://www.linkedin.com/in/amandadecassiaborges/)
 
 > Coding is not just about typing, it's about thinking.
