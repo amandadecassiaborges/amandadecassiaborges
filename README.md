@@ -9,7 +9,8 @@ const amanda = {
     dataAnalysis: {
         tools: ["Pandas", "NumPy"]
     },
-    architecture: ["Single page applications", "Microservices Architecture", "Monolithic Architecture", "Layered Architecture"]
+    architecture: ["Single page applications", "Microservices Architecture", "Monolithic Architecture",
+    "Layered Architecture"]
 }
 ``` 
 
