@@ -2,26 +2,15 @@
 
 ```javascript
 const amanda = {
-    code: ["Python", "PHP", "Java", "JavaScript"],
+    code: ["Python", "PHP", "Java", "JavaScript", "Kotlin", "C", "C#"],
     askMeAbout: ["dev full stack"],
-    technologies: {
-        backEnd: {
-            js: ["JQuery", "React", "Vue"],
-            python: ["Flask", "Django", "TensorFlow", "Scikit-learn"],
-            php: ["Laravel"],
-        },
-        mobileApp: {
-            native: ["Android", "iOS"]
-        },
-        extras: ["Bootstrap", "C", "C++"],
-        devOps: ["AWS", "Docker", "Nginx"],
-        databases: ["MySQL", "SQLite", "PostgreSQL", "SQL Server"],
-        misc: ["Firebase", "OpenCV"]
+    tools: ["Flask", "Django", "Laravel", "Nodejs", "Vue", "React"]
+      databases: ["SQL", "Mysql", "PostgreSQL"],
     },
     dataAnalysis: {
         tools: ["Pandas", "NumPy"]
     },
-    architecture: ["Single page applications", "Serverless Architecture"]
+    architecture: ["Single page applications", "Microservices Architecture", "Monolithic Architecture", "Layered Architecture"]
 };
 ``` 
 
