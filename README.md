@@ -22,7 +22,7 @@ const amanda = {
 
 <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=php,python,java,javascript,kotlin,c,flask,laravel,mysql,react,nodejs,express,vue,docker,linux,postman,vite,bootstrap,postgres," />
+  <img src="https://skillicons.dev/icons?i=php,python,java,javascript,kotlin,c,cs,flask,django,laravel,mysql,react,nodejs,express,vue,docker,linux,postman,vite,bootstrap,postgres," />
 </a>
   <br />
   </div>
