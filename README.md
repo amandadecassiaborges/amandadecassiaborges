@@ -21,6 +21,7 @@ const amanda = {
 > Coding is not just about typing, it's about thinking.
 
 <div align="center" >
+	![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
     
 <a href="https://skillicons.dev"   >
     	![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
