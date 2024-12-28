@@ -20,14 +20,4 @@ const amanda = {
 
 > Coding is not just about typing, it's about thinking.
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<div align="center" >
-	![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    
-<a href="https://skillicons.dev"   >
-    	![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  <img src="https://skillicons.dev/icons?i=php,python,java,javascript,kotlin,c,cs,flask,django,laravel,mysql,react,nodejs,express,vue,docker,linux,postman,vite,bootstrap,postgres," />
-</a>
-  <br />
-  </div>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
