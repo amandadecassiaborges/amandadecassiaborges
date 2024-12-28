@@ -2,7 +2,7 @@
 
 ```javascript
 const amanda = {
-    - Doctor Who: ["Technology isn't the enemy. It's how people use it."]
+    Doctor Who: ["Technology isn't the enemy. It's how people use it."]
 }
 ``` 
 
