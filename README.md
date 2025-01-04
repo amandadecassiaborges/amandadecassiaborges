@@ -4,7 +4,8 @@
 - 🤖 Atualmente focada em desenvolvimento full stack e Inteligência Artificiais
 - 🌱 Sempre explorando novas linguagens, frameworks e tendências na tecnologia
 
-<strong>📫 Connect with Me</strong>
+### 📫 Connect with Me
+
   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU-LINK/)](https://www.linkedin.com/in/SEU-LINK/)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/SEU_USUARIO)](https://instagram.com/SEU_USUARIO)
 
