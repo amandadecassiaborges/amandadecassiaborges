@@ -43,7 +43,7 @@
   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU-LINK/)](https://www.linkedin.com/in/SEU-LINK/)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/SEU_USUARIO)](https://instagram.com/SEU_USUARIO)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandadecassiaborges&layout=compact&theme=radical)]
-![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&theme=radical)
+![Amanda's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandadecassiaborges&layout=compact&theme=midnight-purple)
+![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&theme=midnight-purple)
 
 
