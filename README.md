@@ -1,6 +1,6 @@
 ### Hey, I'm Amanda! 👋
 
-# Olá, eu sou a Amanda! 👋
+### Hey, I'm Amanda Borges! 👋
 
 Sou estudante de Engenharia de Software (7/8) e apaixonada por tecnologia.
 Atualmente focada em desenvolvimento web full stack e sempre explorando novas linguagens e frameworks.
