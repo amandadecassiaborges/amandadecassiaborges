@@ -1,5 +1,19 @@
 ### Hey, I'm Amanda! 👋
 
+# Olá, eu sou a Amanda! 👋
+
+Sou estudante de Engenharia de Software (7/8) e apaixonada por tecnologia.
+Atualmente focada em desenvolvimento web full stack e sempre explorando novas linguagens e frameworks.
+
+- 🌱 **Estudando**: Docker, Kubernetes, e práticas de DevOps
+- 💬 **Pergunte-me sobre**: JavaScript, Python, React, Django
+- 📫 **Como me encontrar**:
+  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU-LINK/)](https://www.linkedin.com/in/SEU-LINK/)
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/SEU_USUARIO)](https://instagram.com/SEU_USUARIO)
+
+> "Technology isn't the enemy. It's how people use it." — Doctor Who
+
+
 ```javascript
 const amanda = {
     Doctor Who: ["Technology isn't the enemy. It's how people use it."]
