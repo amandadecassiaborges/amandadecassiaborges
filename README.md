@@ -3,8 +3,7 @@
 - 💻 Estudante de Engenharia de Software e entusiasta pela ciência e tecnologia
 - 🤖 Atualmente focada em desenvolvimento full stack e Inteligência Artificiais
 - 🌱 Sempre explorando novas linguagens, frameworks e tendências na tecnologia
-- 📫 **Como me encontrar**:
-  
+- 📫 **Como me encontrar**:<br>
   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU-LINK/)](https://www.linkedin.com/in/SEU-LINK/)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/SEU_USUARIO)](https://instagram.com/SEU_USUARIO)
 
