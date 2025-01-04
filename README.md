@@ -1,5 +1,3 @@
-### Hey, I'm Amanda! 👋
-
 ### Hey, I'm Amanda Borges! 👋
 
 - 💻 Estudante de Engenharia de Software e entusiasta pela ciência e tecnologia
