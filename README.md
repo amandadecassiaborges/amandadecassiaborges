@@ -45,25 +45,6 @@
 
 ![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&theme=midnight-purple)
 
-<table>
-  <tr>
-    <!-- Coluna 1 -->
-    <td>
-      ### Hey, I'm Amanda Borges! 👋
-
-      - 💻 Estudante de Engenharia de Software e entusiasta pela ciência e tecnologia  
-      - 🤖 Atualmente focada em desenvolvimento full stack e Inteligência Artificiais  
-      - 🌱 Sempre explorando novas linguagens, frameworks e tendências na tecnologia  
-
-      > "Technology isn't the enemy. It's how people use it." — Doctor Who
-    </td>
-
-    <!-- Coluna 2 -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&theme=midnight-purple" alt="Amanda's GitHub Stats"/>
-    </td>
-  </tr>
-</table>
 
 
 
