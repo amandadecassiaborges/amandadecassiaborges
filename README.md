@@ -4,6 +4,8 @@
 - 🤖 Atualmente focada em desenvolvimento full stack e Inteligência Artificiais
 - 🌱 Sempre explorando novas linguagens, frameworks e tendências na tecnologia
 
+> "Technology isn't the enemy. It's how people use it." — Doctor Who
+
 ### Habilidades Principais
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -41,7 +43,7 @@
   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU-LINK/)](https://www.linkedin.com/in/SEU-LINK/)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/SEU_USUARIO)](https://instagram.com/SEU_USUARIO)
 
-  ![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandadecassiaborges&layout=compact&theme=radical)]
+![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&theme=radical)
 
 
-> "Technology isn't the enemy. It's how people use it." — Doctor Who
