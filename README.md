@@ -2,8 +2,9 @@
 
 ### Hey, I'm Amanda Borges! 👋
 
-Sou estudante de Engenharia de Software (7/8) e apaixonada por tecnologia.
-Atualmente focada em desenvolvimento web full stack e sempre explorando novas linguagens e frameworks.
+- 💻 Estudante de Engenharia de Software e entusiasta pela ciência e tecnologia.
+- 🤖 Atualmente focada em desenvolvimento full stack e Inteligência Artificiais
+- 🌱 Sempre explorando novas linguagens, frameworks e tendências na tecnologia.
 
 - 🌱 **Estudando**: Docker, Kubernetes, e práticas de DevOps
 - 💬 **Pergunte-me sobre**: JavaScript, Python, React, Django
