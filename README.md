@@ -13,6 +13,18 @@ Atualmente focada em desenvolvimento web full stack e sempre explorando novas li
 
 > "Technology isn't the enemy. It's how people use it." — Doctor Who
 
+### Habilidades Principais
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+- Backend: Node.js, Express, Django
+- Frontend: React, Vue, HTML5, CSS3
+- Bancos de Dados: MySQL, PostgreSQL, MongoDB
+- Ferramentas: Git, Docker, Kubernetes
+
+
 
 ```javascript
 const amanda = {
