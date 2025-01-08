@@ -43,7 +43,7 @@
   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandadecassiaborges/)](https://www.linkedin.com/in/amandadecassiaborges/)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/amandadecassiaborges/)](https://www.instagram.com/amandadecassiaborges/)
 
-![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&theme=midnight-purple)
+![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&theme=dark)
 
 
 
