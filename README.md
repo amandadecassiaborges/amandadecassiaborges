@@ -41,6 +41,5 @@
 
 ![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&theme=dark)
 
-<img align="left" src = "https://komarev.com/ghpvc/?username=amandadecassiaborges" alt="amandadecassiaborges profile views" />
 
 
