@@ -2,7 +2,7 @@
 
 > "Technology isn't the enemy. It's how people use it." — Doctor Who
 
-### Habilidades Principais
+### Main Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
