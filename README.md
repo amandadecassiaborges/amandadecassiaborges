@@ -1,9 +1,5 @@
 ### Hey, I'm Amanda Borges! 👋
 
-- 💻 Estudante de Engenharia de Software e entusiasta pela ciência e tecnologia
-- 🤖 Atualmente focada em desenvolvimento full stack e Inteligência Artificiais
-- 🌱 Sempre explorando novas linguagens, frameworks e tendências na tecnologia
-
 > "Technology isn't the enemy. It's how people use it." — Doctor Who
 
 ### Habilidades Principais
