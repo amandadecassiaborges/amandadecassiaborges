@@ -2,29 +2,28 @@
 
 > "Technology isn't the enemy. It's how people use it." — Doctor Who
 
+const AmandaBorges = {
 
-class AmandaBorges:
-    def __init__(self):
-        # Linguagens de programação
-        self.code = ['Python', 'Java', 'JavaScript', 'SQL', 'PHP']
-        # Certificações
-        self.certifications = [
-            'PHP COMMUNITY Summit 2022 - Locaweb',
-            'Minicurso: AWS - Escalabilidade e Resiliência | UNIFAE',
-            'Minicurso: Docker | UNIFAE',
-            'Certificado: TensorFlow Developer',
-            'Certificado: Scrum Master'
-        ]
-        # Tecnologias
-        self.technologies = {
-            'tools': ['Spring Boot', 'Scikit-learn', 'TensorFlow', 'Django', 'NodeJS'],
-            'databases': ['MySQL', 'PostgreSQL', 'MongoDB'],
-            'ides': ['VS Code', 'PyCharm', 'Eclipse', 'IntelliJ IDEA', 'NetBeans']
-        }
-        # Metodologias
-        self.methodologies = ['Scrum', 'Kanban']
-        # Áreas de especialização
-        self.areas_of_expertise = ['Data Science', 'Machine Learning', 'Software Engineering', 'Project Management']
+  code: ['Python', 'Java', 'JavaScript', 'SQL', 'PHP'],
+
+  certifications: [
+      'PHP COMMUNITY Summit 2022 - Locaweb',
+      'Minicurso: AWS - Escalabilidade e Resiliência | UNIFAE',
+      'Minicurso: Docker | UNIFAE',
+      'Certificado: TensorFlow Developer',
+      'Certificado: Scrum Master'
+  ],
+
+  technologies: {
+    tools: ['Spring Boot', 'Scikit-learn', 'TensorFlow', 'Django', 'NodeJS'],
+    databases: ['MySQL', 'PostgreSQL', 'MongoDB'],
+    ides: ['VS Code', 'PyCharm', 'Eclipse', 'IntelliJ IDEA', 'NetBeans'],
+  },
+  
+  methodologies: ['Scrum', 'Kanban'], 
+
+  areasOfExpertise: ['Data Science', 'Machine Learning', 'Software Engineering', 'Project Management']
+}
 
 ### Main Skills
 
