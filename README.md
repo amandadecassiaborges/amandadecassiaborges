@@ -2,11 +2,11 @@
 
 > "Technology isn't the enemy. It's how people use it." — Doctor Who
 
+
 class AmandaBorges:
     def __init__(self):
         # Linguagens de programação
         self.code = ['Python', 'Java', 'JavaScript', 'SQL', 'PHP']
-
         # Certificações
         self.certifications = [
             'PHP COMMUNITY Summit 2022 - Locaweb',
@@ -15,17 +15,14 @@ class AmandaBorges:
             'Certificado: TensorFlow Developer',
             'Certificado: Scrum Master'
         ]
-
         # Tecnologias
         self.technologies = {
             'tools': ['Spring Boot', 'Scikit-learn', 'TensorFlow', 'Django', 'NodeJS'],
             'databases': ['MySQL', 'PostgreSQL', 'MongoDB'],
             'ides': ['VS Code', 'PyCharm', 'Eclipse', 'IntelliJ IDEA', 'NetBeans']
         }
-
         # Metodologias
         self.methodologies = ['Scrum', 'Kanban']
-
         # Áreas de especialização
         self.areas_of_expertise = ['Data Science', 'Machine Learning', 'Software Engineering', 'Project Management']
 
