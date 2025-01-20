@@ -8,7 +8,6 @@ class AmandaBorges:
         self.code = ['Python', 'Java', 'SQL', 'PHP']
 
         self.technologies = {
-            'code': ['Python', 'Java', 'PHP', 'SQL']
             'tools': ['Spring Boot', 'Pandas', 'Numpy', 'Matplotlib', 'Scikit-learn', 'TensorFlow'],
             'databases': ['MySQL', 'PostgreSQL', 'MongoDB']
         }
