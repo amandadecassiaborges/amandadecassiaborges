@@ -14,7 +14,7 @@ Data & Machine Learning = ["Pandas", "NumPy", "Matplotlib", "Scikit-learn", "Ten
 Databases = ["MySQL", "PostgreSQL", "MongoDB"]
 Methodologies = ["Scrum", "Kanban", "Agile Project Management"]
 ```
-<div align="center"> <table> <tr> <td width="60%" valign="top">
+
 **🔍 Areas of Expertise**
 - **Data Science**: From exploratory analysis to predictive modeling. 
 - **Machine Learning**: Building and deploying intelligent systems. 
@@ -24,7 +24,4 @@ Methodologies = ["Scrum", "Kanban", "Agile Project Management"]
 **💬 Quote I Code By**
 > "Technology isn't the enemy. It's how people use it."
 — Doctor Who
-  </td>
-</tr>
-</table> 
-</div>
+<img align='right' width="350px" src="https://github-readme-stats.vercel.app/api?username=CarolinaRibeiro790&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Status do GitHub">
