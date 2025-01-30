@@ -8,17 +8,16 @@
 ---
 
 ### 🛠️ **Tech Stack**
-#### **Languages & Frameworks**
 ```python
-["Python", "Java", "SQL", "PHP", "Spring Boot"]
+Languages & Frameworks = ["Python", "Java", "SQL", "PHP", "Spring Boot"]
 Data & Machine Learning = ["Pandas", "NumPy", "Matplotlib", "Scikit-learn", "TensorFlow"]
 Databases = ["MySQL", "PostgreSQL", "MongoDB"]
 Methodologies = ["Scrum", "Kanban", "Agile Project Management"]
 ```
 **🔍 Areas of Expertise**
-Data Science: From exploratory analysis to predictive modeling.
-Machine Learning: Building and deploying intelligent systems.
-Software Engineering: Scalable backend solutions and clean code.
+Data Science: From exploratory analysis to predictive modeling
+Machine Learning: Building and deploying intelligent systems
+Software Engineering: Scalable backend solutions and clean code
 Project Leadership: Delivering results with Agile frameworks.
 
 **💬 Quote I Code By**
