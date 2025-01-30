@@ -9,8 +9,8 @@
 
 ### 🛠️ **Tech Stack**
 ```python
-Languages & Frameworks = ["Python", "Java", "SQL", "PHP", "Spring Boot"]
-Data & Machine Learning = ["Pandas", "NumPy", "Matplotlib", "Scikit-learn", "TensorFlow"]
+Languages and Frameworks = ["Python", "Java", "SQL", "PHP", "Spring Boot"]
+Data and Machine Learning = ["Pandas", "NumPy", "Matplotlib", "Scikit-learn", "TensorFlow"]
 Databases = ["MySQL", "PostgreSQL", "MongoDB"]
 Methodologies = ["Scrum", "Kanban", "Agile Project Management"]
 ```
