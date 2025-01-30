@@ -14,6 +14,7 @@ Data & Machine Learning = ["Pandas", "NumPy", "Matplotlib", "Scikit-learn", "Ten
 Databases = ["MySQL", "PostgreSQL", "MongoDB"]
 Methodologies = ["Scrum", "Kanban", "Agile Project Management"]
 ```
+<div align="center"> <table> <tr> <td width="60%" valign="top">
 **🔍 Areas of Expertise**
 - **Data Science**: From exploratory analysis to predictive modeling. 
 - **Machine Learning**: Building and deploying intelligent systems. 
@@ -23,3 +24,7 @@ Methodologies = ["Scrum", "Kanban", "Agile Project Management"]
 **💬 Quote I Code By**
 > "Technology isn't the enemy. It's how people use it."
 — Doctor Who
+  </td>
+</tr>
+</table> 
+</div>
