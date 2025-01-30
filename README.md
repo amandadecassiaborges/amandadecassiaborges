@@ -14,7 +14,7 @@ Data & Machine Learning = ["Pandas", "NumPy", "Matplotlib", "Scikit-learn", "Ten
 Databases = ["MySQL", "PostgreSQL", "MongoDB"]
 Methodologies = ["Scrum", "Kanban", "Agile Project Management"]
 ```
-<img align='right' width="350px" src="https://github-readme-stats.vercel.app/api?username=CarolinaRibeiro790&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Status do GitHub">
+<img align='right' width="350px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="Status do GitHub">
 
 **🔍 Areas of Expertise**
 - **Data Science**: From exploratory analysis to predictive modeling. 
