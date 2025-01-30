@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/amandadecassiaborges)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail)](mailto:amandaborgeses@email.com)
 
---
+---
 
 ### 🛠️ **Tech Stack**
 ```python
@@ -14,7 +14,7 @@ Data & Machine Learning = ["Pandas", "NumPy", "Matplotlib", "Scikit-learn", "Ten
 Databases = ["MySQL", "PostgreSQL", "MongoDB"]
 Methodologies = ["Scrum", "Kanban", "Agile Project Management"]
 ```
-<img align='right' width="350px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="Status do GitHub">
+<img align='right' width="350px" src="https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&theme=dark" alt="Status do GitHub">
 
 **🔍 Areas of Expertise**
 - **Data Science**: From exploratory analysis to predictive modeling. 
