@@ -15,12 +15,9 @@ Databases = ["MySQL", "PostgreSQL", "MongoDB"]
 Methodologies = ["Scrum", "Kanban", "Agile Project Management"]
 ```
 **🔍 Areas of Expertise**
-Data Science: From exploratory analysis to predictive modeling.
-
-Machine Learning: Building and deploying intelligent systems.
-
-Software Engineering: Scalable backend solutions and clean code.
-
+Data Science: From exploratory analysis to predictive modeling. 
+Machine Learning: Building and deploying intelligent systems. 
+Software Engineering: Scalable backend solutions and clean code. 
 Project Leadership: Delivering results with Agile frameworks.
 
 **💬 Quote I Code By**
