@@ -1,5 +1,5 @@
 ### 👋 Hello, I'm Amanda Borges! 
-**Software Engineer | Data Scientist | Machine Learning Enthusiast**
+**Software Engineer | Data Scientist | Machine Learning **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/amandadecassiaborges)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/amandadecassiaborges)
