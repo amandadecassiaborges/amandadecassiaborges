@@ -1,5 +1,5 @@
 ### 👋 Hello, I'm Amanda Borges! 
-**Software Engineer | Data Scientist | Machine Learning**
+**Software Engineer | Data Scientist | Machine Learning | Cybersecurity**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/amandadecassiaborges)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/amandadecassiaborges)
@@ -9,7 +9,7 @@
 
 ### 🛠️ **Tech Stack**
 ```python
-Languages and Frameworks = ["Python", "Java", "React Native", "SQL", "PHP", "Spring Boot"]
+Languages and Frameworks = ["Python, Java, React Native, SQL, PHP (Laravel, Blade), Spring Boot"]
 Data and Machine Learning = ["Pandas", "NumPy", "Matplotlib", "Scikit-learn", "TensorFlow"]
 Databases = ["MySQL", "PostgreSQL", "MongoDB"]
 Methodologies = ["Scrum", "Kanban", "Agile Project Management"]
