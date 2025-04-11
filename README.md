@@ -1,4 +1,5 @@
-### 👋 Hello, I'm Amanda Borges! 
+### 👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Ubuntu+Condensed&color=FF007AFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Amanda+Borges!)](https://git.io/typing-svg)
+
 **Software Engineer | Data Scientist | Machine Learning | Cybersecurity**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/amandadecassiaborges)
