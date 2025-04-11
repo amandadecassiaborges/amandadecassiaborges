@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Ubuntu+Condensed&color=ee9c53&size=25&center=true&vCenter=true&width=1000&lines=👋+Hello,+I'm+Amanda+Borges!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Ubuntu+Condensed&color=ee9c53&size=25&width=1000&lines=👋+Hello,+I'm+Amanda+Borges!)](https://git.io/typing-svg)
 
 **Software Engineer | Data Scientist | Machine Learning | Cybersecurity**
 
