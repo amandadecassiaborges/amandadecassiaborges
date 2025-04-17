@@ -1,4 +1,4 @@
-### Hello,I'm Amanda Borges!
+### Hello, I'm Amanda Borges!
 
 **Software Engineer | Data Scientist | Machine Learning | Cybersecurity**
 
