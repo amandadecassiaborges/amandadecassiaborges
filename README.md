@@ -19,14 +19,6 @@ Cybersecurity & Automation = ["Industrial Instrumentation, Security Engineering"
 ```
 <img align='right' width="350px" src="https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&theme=dark" alt="Status do GitHub">
 
-**🔍 Areas of Expertise**
-- **Data Science & Big Data**: From exploratory analysis to predictive modeling.
-- **Machine Learning & AI**: Building and deploying intelligent systems.
-- **Software Engineering**: Scalable backend solutions and clean code.
-- **Project Leadership**: Delivering results with Agile frameworks.
-- **Cybersecurity & Automation**: Securing and optimizing industrial processes.
-- **Physics & Renewable Energy**: Computational models for energy systems.
-
 **💬 Quote I Code By**
 > "Technology isn't the enemy. It's how people use it."
 
