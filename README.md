@@ -17,7 +17,6 @@ Databases = ["MySQL, PostgreSQL, MongoDB"]
 Methodologies = ["Scrum, Kanban, Agile Project Management"]
 Cybersecurity & Automation = ["Industrial Instrumentation, Security Engineering"]
 ```
-<img align='right' width="350px" src="https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&theme=dark" alt="Status do GitHub">
 
 **💬 Quote I Code By**
 > "Technology isn't the enemy. It's how people use it."
