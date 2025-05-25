@@ -33,6 +33,8 @@
 ![Instrumentation](https://img.shields.io/badge/Industrial_Instrumentation-000000?style=for-the-badge&logo=gear&logoColor=white)
 ![Security Engineering](https://img.shields.io/badge/Security_Engineering-4C4C4C?style=for-the-badge&logo=veracrypt&logoColor=white)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue)](https://skillicons.dev)
+
 
 ```python
 Languages and Frameworks = ["Python, Java, React Native, SQL, PHP (Laravel, Blade), Spring Boot"]
