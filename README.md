@@ -17,7 +17,7 @@ Databases = [`MySQL` · `PostgreSQL` · `MongoDB`]
 Methodologies = [`Scrum` · `Kanban` · `Agile Project Management`]  
 Cybersecurity & Automation = [`Industrial Instrumentation` · `Security Engineering`]  
 
----
+--
 
 💬 **Quote I Code By**  
 > *"Technology isn't the enemy. It's how people use it."*
