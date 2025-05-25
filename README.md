@@ -8,12 +8,12 @@
 
 ### 🛠️ Tech Stack
 
-Languages and Frameworks = [`Python` · `Java` · `React Native` · `SQL` · `PHP (Laravel, Blade)` · `Spring Boot`]  
-Data and Machine Learning = [`Pandas` · `NumPy` · `Matplotlib` · `Scikit-learn` · `TensorFlow`]  
-Industrial & Scientific Computing = [`High-Performance Computing (HPC)` · `Modeling & Simulation`]  
-Databases = [`MySQL` · `PostgreSQL` · `MongoDB`]  
-Methodologies = [`Scrum` · `Kanban` · `Agile Project Management`]  
-Cybersecurity & Automation = [`Industrial Instrumentation` · `Security Engineering`]  
+Languages and Frameworks = `Python` · `Java` · `React Native` · `SQL` · `PHP (Laravel, Blade)` · `Spring Boot`  
+Data and Machine Learning = `Pandas` · `NumPy` · `Matplotlib` · `Scikit-learn` · `TensorFlow`  
+Industrial & Scientific Computing = `High-Performance Computing (HPC)` · `Modeling & Simulation`  
+Databases = `MySQL` · `PostgreSQL` · `MongoDB`  
+Methodologies = `Scrum` · `Kanban` · `Agile Project Management`  
+Cybersecurity & Automation = `Industrial Instrumentation` · `Security Engineering`  
 
 💬 **Quote I Code By**  
 > *"Technology isn't the enemy. It's how people use it."*
