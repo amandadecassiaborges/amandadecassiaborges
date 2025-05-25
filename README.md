@@ -9,6 +9,26 @@
 ---
 
 ### 🛠️ **Tech Stack**
+### 🛠️ Tech Stack
+
+**🧑‍💻 Linguagens e Frameworks**  
+`Python` 🐍 · `Java` ☕ · `React Native` ⚛️📱 · `SQL` 🗃️ · `PHP (Laravel, Blade)` 🧩 · `Spring Boot` 🌱🚀  
+
+**📊 Data & Machine Learning**  
+`Pandas` 🐼 · `NumPy` ➗ · `Matplotlib` 📈 · `Scikit-learn` 🤖 · `TensorFlow` 🔶  
+
+**🔬 Computação Científica e Industrial**  
+`High-Performance Computing (HPC)` ⚡ · `Modelagem & Simulação` 🧪  
+
+**💾 Bancos de Dados**  
+`MySQL` 🐬 · `PostgreSQL` 🐘 · `MongoDB` 🍃  
+
+**📋 Metodologias Ágeis**  
+`Scrum` 🌀 · `Kanban` 📌 · `Agile Project Management` ✅  
+
+**🛡️ Cibersegurança & Automação**  
+`Instrumentação Industrial` 🛠️ · `Security Engineering` 🔐
+
 ```python
 Languages and Frameworks = ["Python, Java, React Native, SQL, PHP (Laravel, Blade), Spring Boot"]
 Data and Machine Learning = ["Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow"]
