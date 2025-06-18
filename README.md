@@ -2,11 +2,15 @@
 
 ### Hello, I'm Amanda Borges! 👋
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=amandadecassiaborges&color=f8efd4&style=for-the-badge&logo=GitHub" alt="GitHub Overview">
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandadecassiaborges)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amandadecassiaborges)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amandaborgeses@email.com)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
 
 ---
 
 <div style="display: flex; align-items: center; gap: 10px;">
+  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
