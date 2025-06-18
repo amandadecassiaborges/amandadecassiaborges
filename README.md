@@ -29,7 +29,7 @@
   ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 </div>
+</div>
 
 > "A tecnologia não é inimiga - tudo depende de como as pessoas a usam."
 
-</div>
