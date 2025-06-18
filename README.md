@@ -30,6 +30,6 @@
 
 </div>
 
->"A tecnologia não é inimiga - tudo depende de como as pessoas a usam."
+> "A tecnologia não é inimiga - tudo depende de como as pessoas a usam."
 
 </div>
