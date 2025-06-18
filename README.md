@@ -29,13 +29,9 @@
   ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 </div>
-<div style="background-color:#f0f8ff; padding:15px; border-left:5px solid #1e90ff; border-radius:5px;">
-  <p style="font-style:italic; color:#333;">
-    "A inovação distingue os líderes dos seguidores." <br>
-    <span style="display:block; text-align:right; font-size:0.9em;">— Steve Jobs</span>
-  </p>
-</div>
+ "Technology is not the enemy - it all depends on how people use it."
 </div>
 
-> "A tecnologia não é inimiga - tudo depende de como as pessoas a usam."
+
+
 
