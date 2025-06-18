@@ -1,3 +1,5 @@
+<div align="center">
+  
 ### Hello, I'm Amanda Borges! 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandadecassiaborges)
@@ -24,4 +26,5 @@
   ![Metasploit](https://img.shields.io/badge/-Metasploit-F00F00?style=flat-square)
   ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
+</div>
 </div>
