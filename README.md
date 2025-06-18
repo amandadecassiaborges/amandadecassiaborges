@@ -29,7 +29,6 @@
   ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 </div>
- "Technology is not the enemy - it all depends on how people use it."
 </div>
 
 
