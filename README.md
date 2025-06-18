@@ -1,43 +1,27 @@
-<div align="center">
-  
-**👋 Hello, I'm Amanda Borges!** 
+<img align='right' width="350px" src="https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Status do GitHub">
 
-**Software Engineer | Data Scientist | Machine Learning | Cybersecurity**
+### 👋 Hello, I'm Amanda Borges!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandadecassiaborges)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amandadecassiaborges)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amandaborgeses@email.com)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
-  
+<img src="https://img.shields.io/static/v1?label=Overview&message=amandadecassiaborges&color=f8efd4&style=for-the-badge&logo=GitHub" alt="GitHub Overview">
+
+---
+
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=pandas" width="40" height="40" alt="Pandas" />
+  <img src="https://skillicons.dev/icons?i=numpy" width="40" height="40" alt="NumPy" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" width="40" height="40" alt="scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure" />
+  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=wireshark" width="40" height="40" alt="Wireshark" />
 </div>
-
----
-
-**🛠️ Tech Stack**  
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-F00F00?style=flat-square)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
----
-
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandadecassiaborges&layout=compact&theme=radical" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&theme=radical" /></td>
-  </tr>
-</table>
