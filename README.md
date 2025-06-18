@@ -1,4 +1,5 @@
 <div align="center">
+  
 **👋 Hello, I'm Amanda Borges!** 
 
 **Software Engineer | Data Scientist | Machine Learning | Cybersecurity**
