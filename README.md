@@ -31,21 +31,11 @@
 ![Metasploit](https://img.shields.io/badge/-Metasploit-F00F00?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amandadecassiaborges&layout=compact&theme=radical)
-
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div style="flex: 1; min-width: 300px;">
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amandadecassiaborges&layout=compact&theme=radical)
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&theme=radical)
+  </div>
 </div>
-## 🎯 Currently Learning
-
-- Blockchain development and smart contracts
-- Advanced cybersecurity techniques
-- MLOps best practices
-- Cloud-native architectures
-
-## 💬 Let's Connect!
-
-I'm always open to discussing technology, collaboration opportunities, or just chatting about the latest in tech. Reach out to me through any of the links above!
