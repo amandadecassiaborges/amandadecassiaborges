@@ -1,9 +1,8 @@
-# 👋 Hello, I'm Amanda Borges!
+<div align="center">
+**👋 Hello, I'm Amanda Borges!** 
 
 **Software Engineer | Data Scientist | Machine Learning | Cybersecurity**
 
-<div align="center">
-  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandadecassiaborges)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amandadecassiaborges)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amandaborgeses@email.com)
@@ -11,7 +10,7 @@
   
 </div>
 
-## 🛠️ Tech Stack
+**🛠️ Tech Stack** 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
