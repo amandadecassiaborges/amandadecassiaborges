@@ -17,5 +17,7 @@
 
 </div>
 
+---
+
 
 _Interessado em colaborar em algum projeto ou trocar ideias? Fique à vontade para entrar em contato!_
