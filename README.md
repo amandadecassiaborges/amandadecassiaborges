@@ -4,7 +4,12 @@
 
 ---
 
-Sou uma **desenvolvedora full-stack** apaixonada por transformar desafios em soluções eficientes e inovadoras. Com experiência em **desenvolvimento de aplicações robustas** e uma forte inclinação para **Machine Learning e análise de dados**, estou sempre em busca de aprender e aplicar novas tecnologias.
+Sou uma desenvolvedora full-stack, com foco em:
+<img src="https://skillicons.dev/icons?i=python,java,php,laravel" alt="Python, Java, PHP, Laravel" style="height: 25px; vertical-align: middle;">
+
+Sou apaixonada por transformar desafios em soluções eficientes e inovadoras. Com experiência em **desenvolvimento de aplicações robustas** e uma forte inclinação para **Machine Learning**
+<img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow" alt="Scikit-learn, TensorFlow" style="height: 25px; vertical-align: middle;">
+e **análise de dados**, estou sempre em busca de aprender e aplicar novas tecnologias.
 
 ---
 
@@ -25,8 +30,6 @@ Sou uma **desenvolvedora full-stack** apaixonada por transformar desafios em sol
 ---
 
 ### Minhas Habilidades
-
-Explore as tecnologias e ferramentas com as quais eu trabalho. Estou sempre aberta a novas descobertas e aprimoramento contínuo!
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,php,laravel,latex,scikitlearn,tensorflow,mysql,postgresql,mongodb,docker,aws,kali&perline=8" alt="Minhas Habilidades">
