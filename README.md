@@ -8,7 +8,7 @@
 
 ---
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 10px;">
   
   [![My Skills](https://skillicons.dev/icons?i=python,java,php,laravel,latex,scikitlearn,tensorflow,mysql,postgresql,mongodb,docker,aws,kali&perline=13)](https://skillicons.dev)
 
