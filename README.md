@@ -1,3 +1,5 @@
+<div style="align-items: center">
+  
 ### Olá! Sou a Amanda 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandadecassiaborges)
@@ -6,8 +8,6 @@
 
 ---
 
-<div style="align-items: center;">
-  
   [![My Skills](https://skillicons.dev/icons?i=python,java,php,laravel,latex,scikitlearn,tensorflow,mysql,postgresql,mongodb,docker,aws,kali&perline=8)](https://skillicons.dev)
 
 </div>
