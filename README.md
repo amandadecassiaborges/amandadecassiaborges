@@ -1,4 +1,4 @@
-<img align='right' width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-CSantos&theme=midnight-purple" alt="Status do GitHub">
+<img align='right' width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-CSantos&theme=midnight-purple" alt="Status do GitHub">
 
 ### Olá, meu nome é Amanda! 
 
