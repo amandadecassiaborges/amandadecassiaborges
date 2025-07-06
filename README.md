@@ -4,8 +4,9 @@
 
 ---
 
-Sou uma desenvolvedora apaixonada por:
-<img src="https://skillicons.dev/icons?i=python,java,php,laravel,scikitlearn,tensorflow,mysql,postgresql,mongodb,docker,aws,kali&perline=10" alt="Minhas Habilidades" style="height: 30px; vertical-align: middle;">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,php,laravel,scikitlearn,tensorflow,mysql,postgresql,mongodb,docker,aws,kali&perline=10" alt="Minhas Habilidades" style="height: 30px; vertical-align: middle;">
+</p>
 Transformo desafios em soluções eficientes e inovadoras, com foco em desenvolvimento de aplicações robustas e na exploração do potencial da Inteligência Artificial e análise de dados. Estou sempre em busca de aprender e aplicar novas tecnologias.
 
 ---
