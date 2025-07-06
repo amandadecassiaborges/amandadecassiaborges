@@ -2,36 +2,15 @@
 
 ### Olá! Sou a Amanda 👋
 
----
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,php,laravel,scikitlearn,tensorflow,mysql,postgresql,mongodb,docker,aws,kali&perline=10" alt="Minhas Habilidades">
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandadecassiaborges)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amandaborges)
+[![Substack](https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@amandaborges)
 
 ---
 
-### Conecte-se comigo!
+<div style="display: flex; align-items: center; gap: 10px;">
 
-<p align="center">
-  <a href="https://linkedin.com/in/amandadecassiaborges" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://medium.com/@amandaborges" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-  <a href="https://substack.com/@amandaborges" target="_blank">
-    <img src="https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack">
-  </a>
-</p>
+  
+  [![My Skills](https://skillicons.dev/icons?i=python,java,php,laravel,latex,scikitlearn,tensorflow,mysql,postgresql,mongodb,docker,aws,kali&perline=8)](https://skillicons.dev)
 
----
-
-### Projetos & Experiência
-
-<p align="center">
-  </p>
-
----
-
-_Interessado em colaborar em algum projeto ou trocar ideias? Fique à vontade para entrar em contato!_
+</div>
