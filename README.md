@@ -1,6 +1,6 @@
 <div align="center">
   
-### Olá! Sou a Amanda 👋
+### Olá! Meu nome é Amanda 🧠
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandadecassiaborges)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amandaborges)
