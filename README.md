@@ -19,7 +19,8 @@ Sou uma desenvolvedora apaixonada por [**desenvolvimento de software, dados, ou 
 Explore as tecnologias e ferramentas com as quais eu trabalho. Estou sempre aberta a novas descobertas e aprimoramento contínuo!
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  
+
+  
   [![My Skills](https://skillicons.dev/icons?i=python,java,php,laravel,latex,scikitlearn,tensorflow,mysql,postgresql,mongodb,docker,aws,kali&perline=13)](https://skillicons.dev)
 
 </div>
