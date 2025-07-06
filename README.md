@@ -2,15 +2,36 @@
 
 ### Olá! Sou a Amanda 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandadecassiaborges)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amandaborges)
-[![Substack](https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@amandaborges)
+---
+
+Sou uma **desenvolvedora full-stack** apaixonada por transformar desafios em soluções eficientes e inovadoras. Com experiência em **desenvolvimento de aplicações robustas** e uma forte inclinação para **Machine Learning e análise de dados**, estou sempre em busca de aprender e aplicar novas tecnologias.
 
 ---
 
-<div style="display: flex; align-items: center; gap: 10px;">
+### Conecte-se comigo!
 
-  
-  [![My Skills](https://skillicons.dev/icons?i=python,java,php,laravel,latex,scikitlearn,tensorflow,mysql,postgresql,mongodb,docker,aws,kali&perline=8)](https://skillicons.dev)
+<p align="center">
+  <a href="https://linkedin.com/in/amandadecassiaborges" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@amandaborges" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="https://substack.com/@amandaborges" target="_blank">
+    <img src="https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack">
+  </a>
+</p>
 
-</div>
+---
+
+### Minhas Habilidades
+
+Explore as tecnologias e ferramentas com as quais eu trabalho. Estou sempre aberta a novas descobertas e aprimoramento contínuo!
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,php,laravel,latex,scikitlearn,tensorflow,mysql,postgresql,mongodb,docker,aws,kali&perline=8" alt="Minhas Habilidades">
+</p>
+
+---
+
+_Interessado em colaborar em algum projeto ou trocar ideias? Fique à vontade para entrar em contato!_
