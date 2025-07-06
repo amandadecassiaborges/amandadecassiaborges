@@ -1,4 +1,4 @@
-<img align='right' width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-CSantos&theme=midnight-purple" alt="Status do GitHub">
+<img align='right' width="340px" src="https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Status do GitHub">
 
 ### Olá, meu nome é Amanda! 
 
