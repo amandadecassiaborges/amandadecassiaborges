@@ -14,5 +14,3 @@
   [![My Skills](https://skillicons.dev/icons?i=python,java,php,laravel,latex,scikitlearn,tensorflow,mysql,postgresql,mongodb,docker,aws,kali&perline=8)](https://skillicons.dev)
 
 </div>
-
----
