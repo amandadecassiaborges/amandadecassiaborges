@@ -1,4 +1,4 @@
-<div style="align-items: center">
+<div align="center">
   
 ### Olá! Sou a Amanda 👋
 
