@@ -1,10 +1,14 @@
-<div align="center">
-  
+<img align='right' width="350px" src="https://github-readme-stats.vercel.app/api?username=CarolinaRibeiro790&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Status do GitHub">
+
+### Olá, meu nome é Amanda! 
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandadecassiaborges)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
 [![Substack](https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@yourusername)
 
-<div style="align-items: center;">
+---
+
+<div style="display: flex; align-items: center; gap: 10px;">
   
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -24,7 +28,9 @@
   ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 </div>
-</div>
+
+
+
 
 
 
