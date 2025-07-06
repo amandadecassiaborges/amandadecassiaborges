@@ -1,4 +1,4 @@
-<img align='right' width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-CSantos&theme=midnight-purple" alt="Status do GitHub">
+<img align='right' width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-CSantos&theme=midnight-purple" alt="Status do GitHub">
 
 ### Olá, meu nome é Amanda! 
 
@@ -8,7 +8,7 @@
 
 ---
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 20px;">
   
   [![My Skills](https://skillicons.dev/icons?i=python,java,php,laravel,latex,scikitlearn,tensorflow,mysql,postgresql,mongodb,docker,aws,kali&perline=13)](https://skillicons.dev)
 
