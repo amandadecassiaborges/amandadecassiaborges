@@ -2,6 +2,8 @@
 
 ### Olá! Sou a Amanda 👋
 
+💻 Software Engineer | 🧠 AI & Machine Learning | ✍️ Technical Writer
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandadecassiaborges)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amandaborges)
 [![Substack](https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@amandaborges)
@@ -14,11 +16,6 @@
   [![My Skills](https://skillicons.dev/icons?i=python,java,php,laravel,latex,scikitlearn,tensorflow,mysql,postgresql,mongodb,docker,aws,kali&perline=8)](https://skillicons.dev)
 
 </div>
----
 
-### Conecte-se comigo!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandadecassiaborges)
----
 
 _Interessado em colaborar em algum projeto ou trocar ideias? Fique à vontade para entrar em contato!_
