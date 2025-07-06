@@ -10,7 +10,7 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
   
-  [![My Skills](https://skillicons.dev/icons?i=python,java,php,laravel,pandas,numpy,scikitlearn,tensorflow,mysql,postgresql,mongodb,docker,aws,kali&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,java,php,laravel,latex,scikitlearn,tensorflow,mysql,postgresql,mongodb,docker,aws,kali&perline=8)](https://skillicons.dev)
 
 </div>
 
