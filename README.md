@@ -1,30 +1,39 @@
-<img align='right' width="350px" src="https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Estatísticas do GitHub de Amanda de Cássia Borges">
+<img align='right' width="350px" src="https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Status do GitHub">
 
-### Olá! Sou a Amanda 👋
+### 👋 Olá, eu sou Amanda Borges! 
 
----
-
-Sou uma desenvolvedora apaixonada por [**desenvolvimento de software, dados, ou sua principal área de interesse**] e por transformar desafios em soluções criativas. Com experiência em [**mencione 1-2 áreas de atuação, como desenvolvimento backend, machine learning, ou segurança**], estou sempre buscando aprender e aplicar novas tecnologias para construir projetos impactantes.
-
----
-
-### Conecte-se comigo!
+💻 Engenheira de Software | 🧠 IA & Ciência de Dados | ✍️ Escritora Técnica
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandadecassiaborges)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amandaborges)
+[![Substack](https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@amandaborges)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanda@example.com)
 
 ---
 
-### Minhas Habilidades
+### 🛠️ Habilidades Técnicas
 
-Explore as tecnologias e ferramentas com as quais eu trabalho. Estou sempre aberta a novas descobertas e aprimoramento contínuo!
+**Linguagens:**  
+[![My Skills](https://skillicons.dev/icons?i=python,java,php&theme=light)](https://skillicons.dev)
 
-<div style="display: flex; align-items: center; gap: 10px;">
+**Frameworks & Bibliotecas:**  
+[![My Skills](https://skillicons.dev/icons?i=laravel,scikitlearn,tensorflow&theme=light)](https://skillicons.dev)
 
-  
-  [![My Skills](https://skillicons.dev/icons?i=python,java,php,laravel,latex,scikitlearn,tensorflow,mysql,postgresql,mongodb,docker,aws,kali&perline=13)](https://skillicons.dev)
+**Bancos de Dados:**  
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=light)](https://skillicons.dev)
 
-</div>
+**Ferramentas & Plataformas:**  
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,latex,kali&theme=light)](https://skillicons.dev)
 
 ---
 
-_Interessado em colaborar em algum projeto ou trocar ideias? Fique à vontade para entrar em contato!_
+### 📚 Últimos Artigos
+<!-- BLOG-POST-LIST:START -->
+- [Introdução ao Machine Learning com Python](https://medium.com/p/123456)
+- [Boas práticas de desenvolvimento com Laravel](https://medium.com/p/789012)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🏆 Conquistas
+[![Trophies](https://github-profile-trophy.vercel.app/?username=amandadecassiaborges&theme=chalk&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
