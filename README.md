@@ -1,5 +1,4 @@
-<img align='right' width="350px" src="" alt="Status do GitHub">![img](https://github.com/user-attachments/assets/fabd9fbc-0305-43fe-9b6d-8e30a42c5d65)
-
+<img align='right' width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-CSantos&theme=midnight-purple" alt="Status do GitHub">
 
 ### Olá, meu nome é Amanda! 
 
