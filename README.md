@@ -2,7 +2,7 @@
 
 ### Hello, my name is Amanda!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=CarolinaRibeiro790&color=f8efd4&style=for-the-badge&logo=GitHub" alt="GitHub Overview">
+<img src="https://img.shields.io/static/v1?label=Overview&message=amandadecassiaborges&color=f8efd4&style=for-the-badge&logo=GitHub" alt="GitHub Overview">
 
 ---
 
