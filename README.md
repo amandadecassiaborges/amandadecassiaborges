@@ -27,12 +27,5 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Progress_4GL-%23444444.svg?style=flat-square&logo=codeigniter&logoColor=white" alt="Progress 4GL" />
-</div>
-
----
-
-### 📫 Conecte-se comigo
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <a href="https://linkedin.com/in/amandadecassiaborges"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/amandadecassiaborges"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  
 </div>
