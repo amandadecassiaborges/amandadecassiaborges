@@ -1,7 +1,7 @@
 <img align='right' width="370px" src="https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&theme=swift" alt="Status do GitHub">
 
 <p align="center">
-  ### Hello, my name is Amanda!
+  **Hello, my name is Amanda!**
 </p>
 
 <div align="center">
