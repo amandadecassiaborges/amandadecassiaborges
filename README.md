@@ -1,8 +1,6 @@
 <img align='right' width="370px" src="https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&theme=swift" alt="Status do GitHub">
 
-<p align="center">
-  <h3>Hello, my name is Amanda!</h3>
-</p>
+<h3 align="center">Hello, my name is Amanda!</h3>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=Overview&message=amandadecassiaborges&color=f7f7f7&style=for-the-badge&logo=GitHub&logoColor=d14d28&labelColor=282828" alt="GitHub Overview">
