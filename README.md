@@ -18,11 +18,9 @@
   <img src="https://img.shields.io/badge/c-%230059A5.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%230059A5.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white" alt="R" />
-</div>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-</div>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
