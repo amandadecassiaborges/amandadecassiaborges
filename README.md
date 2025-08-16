@@ -1,5 +1,4 @@
 [![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=4440FF&pause=500&center=true&random=false&width=1200&lines=|+Software+Engineer+,+Developer+and+Scientist;)](https://git.io/typing-svg)
-<div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP" />
@@ -19,4 +18,3 @@
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Progress_4GL-%23444444.svg?style=flat-square&logo=codeigniter&logoColor=white" alt="Progress 4GL" />
   
-</div>
