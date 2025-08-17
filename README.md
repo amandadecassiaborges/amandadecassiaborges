@@ -5,8 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandadecassiaborges/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:amandaborgeses@gmail.com)
 
-> “Do, or do not. There is no “try” — Yoda
-
 ---
 
 <div style="display: flex; align-items: center; gap: 10px;">
