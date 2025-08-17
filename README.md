@@ -1,23 +1,14 @@
-## Hey there, I am Amanda Borges!
+<img align='right' width="350px" src="https://github-readme-stats.vercel.app/api?username=CarolinaRibeiro790&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Status do GitHub">
+
+## Hey there, I am Amanda Borges!⭐
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=CarolinaRibeiro790&color=f8efd4&style=for-the-badge&logo=GitHub" alt="GitHub Overview">
+
 > “Do, or do not. There is no “try” — Yoda
 
-<div style="position: relative; display: inline-block;">
-  <span style="cursor: help; border-bottom: 1px dotted;">Amanda Borges' GitHub Stats</span>
-  <div style="visibility: hidden; position: absolute; width: 200px; background-color: #f8efd4; color: #af552e; text-align: center; border-radius: 6px; padding: 5px; z-index: 1; bottom: 125%; left: 50%; margin-left: -100px; opacity: 0; transition: opacity 0.3s;">
-    <strong>Amanda Borges' GitHub Stats</strong><br>
-    ⭐ Total Stars earned (2025): 0<br>
-    👨‍💻 Total PRs: 0<br>
-    🐛 Total Issues contributed to (last year): 0
-  </div>
-</div>
-<style>
-  div:hover + div, div:hover ~ div {
-    visibility: visible;
-    opacity: 1;
-  }
-</style>
+---
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+<div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40">
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40">
   <img src="https://skillicons.dev/icons?i=materialui" alt="Material-UI" width="40" height="40">
