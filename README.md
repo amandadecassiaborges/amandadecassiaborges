@@ -13,9 +13,7 @@
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40">
   <img src="https://skillicons.dev/icons?i=materialui" alt="Material-UI" width="40" height="40">
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40">
   <img src="https://skillicons.dev/icons?i=next" alt="Next.js" width="40" height="40">
-  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40">
   <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" width="40" height="40">
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40">
