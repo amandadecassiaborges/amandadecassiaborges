@@ -1,8 +1,9 @@
 <img align='right' width="350px" src="https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Status do GitHub">
 
-### Hey there, I am Amanda Borges!⭐
+### Hey there, I am Amanda Borges! ⭐
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=amandadecassiaborges&color=f8efd4&style=for-the-badge&logo=GitHub" alt="GitHub Overview">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandadecassiaborges/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:amandaborgeses@gmail.com)
 
 > “Do, or do not. There is no “try” — Yoda
 
