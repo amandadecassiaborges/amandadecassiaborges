@@ -27,4 +27,4 @@
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40">
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40">
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40">
-  <img src="https://skillicons.dev/icons
+</div>
