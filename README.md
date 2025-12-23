@@ -1,11 +1,7 @@
-<img align='right' width="350px" src="https://github-readme-stats.vercel.app/api?username=amandadecassiaborges&theme=dark&show_icons=true" alt="Status do GitHub">
-
 ### Hey there, I am Amanda Borges!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandadecassiaborges/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amandaborgeses@gmail.com)
-
----
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/>
