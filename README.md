@@ -10,5 +10,3 @@
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
 </div>
-
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borgesamandadecassia@gmail.com)
