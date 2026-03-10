@@ -2,7 +2,6 @@
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40"/>
