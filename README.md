@@ -1,6 +1,3 @@
-# Amanda Borges
-Software Engineer · Platform & Backend · Cloud Infrastructure
-
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
@@ -13,5 +10,3 @@ Software Engineer · Platform & Backend · Cloud Infrastructure
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
 </div>
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/SEU_PERFIL)
