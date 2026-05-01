@@ -1,12 +1,6 @@
 <!-- HEADER -->
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════╗
-║  the edge where physics becomes code becomes thought       ║
-╚════════════════════════════════════════════════════════════╝
-```
-
 *Building at the intersection of formal systems and physical reality*
 
 <p>
