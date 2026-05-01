@@ -1,8 +1,6 @@
 <!-- HEADER -->
 <div align="center">
 
-*Building at the intersection of formal systems and physical reality*
-
 <p>
   <div align="center">
 
