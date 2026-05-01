@@ -33,10 +33,6 @@
                               — Albert Einstein
 ```
 
-</div>
-
----
-
 <!-- CONTACT -->
 <div align="center">
 
