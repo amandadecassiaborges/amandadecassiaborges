@@ -18,7 +18,7 @@
 <p>
   <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,javascript,node,rust,py,haskell,java,spring,postgres,linux,bash,git,docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=c,cpp,javascript,php,laravel,nodejs,rust,py,haskell,java,spring,postgres,linux,bash,git,docker,kubernetes" />
 
 </div>
 
