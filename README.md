@@ -16,10 +16,6 @@ class Amanda:
   <img src="https://skillicons.dev/icons?i=c,cpp,laravel,rust,py,haskell,java,spring,postgres,linux,bash,git,docker,kubernetes" />
 </div>
 
-<br>
-
-<br>
-
 ---
 
 <div align="center">
